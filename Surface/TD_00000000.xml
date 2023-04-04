@@ -1,0 +1,6366 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>Td2m</VAR>
+<UNIT>deg C</UNIT>
+<PERIOD>20200629-20200900</PERIOD>
+ <STATION>
+ <MEAN_OBS>   8.43764973     </MEAN_OBS>
+ <STDV_OBS>   2.90485120     </STDV_OBS>
+ <EXP>
+ <ID>        2863 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         956 </NUM>
+ <MEAN>   9.15668488     </MEAN>
+ <STDV>   3.55344860E-26 </STDV>
+ <BIAS>   1.58042681     </BIAS>
+ <RMSE>  0.866281867     </RMSE>
+ <CORR>   4.04373058E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2863 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         956 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.59123635     </BIAS>
+ <RMSE>  0.864509165     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2863 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         956 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.59966159     </BIAS>
+ <RMSE>  0.862967372     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.62152576     </MEAN_OBS>
+ <STDV_OBS>   2.91226053     </STDV_OBS>
+ <EXP>
+ <ID>        2862 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   9.11427021     </MEAN>
+ <STDV>   1.16991154E-27 </STDV>
+ <BIAS>   1.37280774     </BIAS>
+ <RMSE>  0.882331431     </RMSE>
+ <CORR>   4.04366156E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2862 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.37655616     </BIAS>
+ <RMSE>  0.882902861     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2862 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.715063155     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.38633549     </BIAS>
+ <RMSE>  0.879725516     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.63986015     </MEAN_OBS>
+ <STDV_OBS>   2.05222178     </STDV_OBS>
+ <EXP>
+ <ID>        2807 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   6.89178848     </MEAN>
+ <STDV>   4.04370100E-26 </STDV>
+ <BIAS>   1.71573961     </BIAS>
+ <RMSE>  0.749424696     </RMSE>
+ <CORR>   4.04372072E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2807 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.71729195     </BIAS>
+ <RMSE>  0.748913884     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2807 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   12845.6846     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.73435199     </BIAS>
+ <RMSE>  0.742840588     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.89344597     </MEAN_OBS>
+ <STDV_OBS>   2.83944774     </STDV_OBS>
+ <EXP>
+ <ID>        2847 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   8.49864960     </MEAN>
+ <STDV>   1.60049524E-26 </STDV>
+ <BIAS>   1.20291901     </BIAS>
+ <RMSE>  0.905372024     </RMSE>
+ <CORR>   4.04373058E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2847 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.20039988     </BIAS>
+ <RMSE>  0.907919228     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2847 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   21811.6953     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.21142590     </BIAS>
+ <RMSE>  0.905159414     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.94210434     </MEAN_OBS>
+ <STDV_OBS>   2.74239206     </STDV_OBS>
+ <EXP>
+ <ID>        2813 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   8.60585403     </MEAN>
+ <STDV>   1.10941114E-27 </STDV>
+ <BIAS>   1.25918007     </BIAS>
+ <RMSE>  0.887396395     </RMSE>
+ <CORR>   4.04366156E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2813 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.25023186     </BIAS>
+ <RMSE>  0.890255451     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2813 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   15724.6094     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.26071644     </BIAS>
+ <RMSE>  0.888049364     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.69327545     </MEAN_OBS>
+ <STDV_OBS>   2.09553599     </STDV_OBS>
+ <EXP>
+ <ID>        2815 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         968 </NUM>
+ <MEAN>   8.17242622     </MEAN>
+ <STDV>   1.60050017E-26 </STDV>
+ <BIAS>   1.78384435     </BIAS>
+ <RMSE>  0.729669631     </RMSE>
+ <CORR>   4.04372072E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2815 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         968 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.76754558     </BIAS>
+ <RMSE>  0.734772682     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2815 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         968 </NUM>
+ <MEAN>  0.592885137     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.78414714     </BIAS>
+ <RMSE>  0.729819417     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.81219530     </MEAN_OBS>
+ <STDV_OBS>   2.47702169     </STDV_OBS>
+ <EXP>
+ <ID>        2705 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   7.91725540     </MEAN>
+ <STDV>   1.10170897E-27 </STDV>
+ <BIAS>   1.30809546     </BIAS>
+ <RMSE>  0.847568154     </RMSE>
+ <CORR>   4.04373058E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2705 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.32883418     </BIAS>
+ <RMSE>  0.843929946     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2705 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   9.92880917     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.32016993     </BIAS>
+ <RMSE>  0.846367955     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.71354961     </MEAN_OBS>
+ <STDV_OBS>   2.30399084     </STDV_OBS>
+ <EXP>
+ <ID>        2745 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   7.88076067     </MEAN>
+ <STDV>   3.55344860E-26 </STDV>
+ <BIAS>   1.50130630     </BIAS>
+ <RMSE>  0.825840414     </RMSE>
+ <CORR>   4.04366156E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2745 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.49467719     </BIAS>
+ <RMSE>  0.827274621     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2745 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.615083218     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.49459338     </BIAS>
+ <RMSE>  0.827445507     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.74314141     </MEAN_OBS>
+ <STDV_OBS>   1.91024756     </STDV_OBS>
+ <EXP>
+ <ID>        2820 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   4.44904804     </MEAN>
+ <STDV>   1.16991154E-27 </STDV>
+ <BIAS>   1.21182013     </BIAS>
+ <RMSE>  0.833024621     </RMSE>
+ <CORR>   4.04372072E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2820 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.23556447     </BIAS>
+ <RMSE>  0.825213253     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2820 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.693158686     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.21936619     </BIAS>
+ <RMSE>  0.830496490     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.24416351     </MEAN_OBS>
+ <STDV_OBS>   1.93611503     </STDV_OBS>
+ <EXP>
+ <ID>        2821 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.14477205     </MEAN>
+ <STDV>   4.04370100E-26 </STDV>
+ <BIAS>   1.23535311     </BIAS>
+ <RMSE>  0.841031313     </RMSE>
+ <CORR>   4.04373058E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2821 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.26614630     </BIAS>
+ <RMSE>  0.832204878     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2821 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.470976233     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.24732471     </BIAS>
+ <RMSE>  0.837696135     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.69134235     </MEAN_OBS>
+ <STDV_OBS>   1.82630169     </STDV_OBS>
+ <EXP>
+ <ID>        2882 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         866 </NUM>
+ <MEAN>   5.54896450     </MEAN>
+ <STDV>   4.04372072E-26 </STDV>
+ <BIAS>   1.55132902     </BIAS>
+ <RMSE>  0.756783664     </RMSE>
+ <CORR>   4.04366156E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2882 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         866 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.58099985     </BIAS>
+ <RMSE>  0.745814383     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2882 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         866 </NUM>
+ <MEAN>   18496.0137     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.58122969     </BIAS>
+ <RMSE>  0.746021390     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.61116695     </MEAN_OBS>
+ <STDV_OBS>   1.83078504     </STDV_OBS>
+ <EXP>
+ <ID>        2717 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   6.04444790     </MEAN>
+ <STDV>   1.10941114E-27 </STDV>
+ <BIAS>   1.54134679     </BIAS>
+ <RMSE>  0.724346399     </RMSE>
+ <CORR>   1.60049524E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2717 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.53754604     </BIAS>
+ <RMSE>  0.725397348     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2717 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.624840260     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.56051075     </BIAS>
+ <RMSE>  0.714985073     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.21588898     </MEAN_OBS>
+ <STDV_OBS>   2.24637032     </STDV_OBS>
+ <EXP>
+ <ID>        2719 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   7.96020651     </MEAN>
+ <STDV>   1.60050017E-26 </STDV>
+ <BIAS>   1.45598769     </BIAS>
+ <RMSE>  0.844061434     </RMSE>
+ <CORR>   4.04373058E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2719 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.45301151     </BIAS>
+ <RMSE>  0.844745815     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2719 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   13357.8320     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.45271242     </BIAS>
+ <RMSE>  0.844892919     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.01208878     </MEAN_OBS>
+ <STDV_OBS>   1.93582523     </STDV_OBS>
+ <EXP>
+ <ID>        2722 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   6.47575760     </MEAN>
+ <STDV>   1.10170897E-27 </STDV>
+ <BIAS>   1.78565216     </BIAS>
+ <RMSE>  0.710520506     </RMSE>
+ <CORR>   4.04366156E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2722 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.77370977     </BIAS>
+ <RMSE>  0.715080142     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2722 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   9.23234558     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.78338933     </BIAS>
+ <RMSE>  0.711333394     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.09068394     </MEAN_OBS>
+ <STDV_OBS>   1.92333078     </STDV_OBS>
+ <EXP>
+ <ID>        2817 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   6.40567064     </MEAN>
+ <STDV>   4.04373058E-26 </STDV>
+ <BIAS>   1.65223789     </BIAS>
+ <RMSE>  0.689080715     </RMSE>
+ <CORR>   1.60049524E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2817 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.64415550     </BIAS>
+ <RMSE>  0.693191648     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2817 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   9.67576790     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.64948869     </BIAS>
+ <RMSE>  0.690303266     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.03482723     </MEAN_OBS>
+ <STDV_OBS>   2.14481688     </STDV_OBS>
+ <EXP>
+ <ID>        2818 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   7.32915258     </MEAN>
+ <STDV>   1.16991154E-27 </STDV>
+ <BIAS>   1.52465808     </BIAS>
+ <RMSE>  0.812772274     </RMSE>
+ <CORR>   3.55344860E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2818 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.53481746     </BIAS>
+ <RMSE>  0.809993267     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2818 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.725498497     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.51643109     </BIAS>
+ <RMSE>  0.814969361     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.31434298     </MEAN_OBS>
+ <STDV_OBS>   1.88589656     </STDV_OBS>
+ <EXP>
+ <ID>        2726 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   4.46345568     </MEAN>
+ <STDV>   4.04370100E-26 </STDV>
+ <BIAS>   1.35780787     </BIAS>
+ <RMSE>  0.787613511     </RMSE>
+ <CORR>   4.04366156E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2726 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.36144602     </BIAS>
+ <RMSE>  0.786623359     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2726 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.680654585     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.34525847     </BIAS>
+ <RMSE>  0.792196155     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.32265902     </MEAN_OBS>
+ <STDV_OBS>   1.95571661     </STDV_OBS>
+ <EXP>
+ <ID>        2857 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.63263321     </MEAN>
+ <STDV>   4.04372072E-26 </STDV>
+ <BIAS>   1.31546724     </BIAS>
+ <RMSE>  0.813562930     </RMSE>
+ <CORR>   1.60049524E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2857 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.29894972     </BIAS>
+ <RMSE>  0.818487644     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2857 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   17004.0957     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.34540164     </BIAS>
+ <RMSE>  0.803835750     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.23084593     </MEAN_OBS>
+ <STDV_OBS>   2.21218014     </STDV_OBS>
+ <EXP>
+ <ID>        2825 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.54297352     </MEAN>
+ <STDV>   1.10941114E-27 </STDV>
+ <BIAS>   1.30893815     </BIAS>
+ <RMSE>  0.846574306     </RMSE>
+ <CORR>   3.55344860E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2825 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.32910049     </BIAS>
+ <RMSE>  0.841549456     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2825 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   14072.9814     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.32885993     </BIAS>
+ <RMSE>  0.840956151     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.00823116     </MEAN_OBS>
+ <STDV_OBS>   1.94280720     </STDV_OBS>
+ <EXP>
+ <ID>        2827 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         971 </NUM>
+ <MEAN>   6.75245142     </MEAN>
+ <STDV>   1.60050017E-26 </STDV>
+ <BIAS>   1.52871740     </BIAS>
+ <RMSE>  0.797893465     </RMSE>
+ <CORR>   4.04366156E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2827 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         971 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.54809523     </BIAS>
+ <RMSE>  0.792203605     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2827 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         971 </NUM>
+ <MEAN>  0.527386189     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.54214132     </BIAS>
+ <RMSE>  0.794164777     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.70574141     </MEAN_OBS>
+ <STDV_OBS>   1.25933671     </STDV_OBS>
+ <EXP>
+ <ID>        2888 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.12796497     </MEAN>
+ <STDV>   1.10170897E-27 </STDV>
+ <BIAS>  0.893832564     </BIAS>
+ <RMSE>  0.847654819     </RMSE>
+ <CORR>   1.60049524E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2888 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.893358171     </BIAS>
+ <RMSE>  0.848625422     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2888 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   8.10822296     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.891971827     </BIAS>
+ <RMSE>  0.849293649     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.35472012     </MEAN_OBS>
+ <STDV_OBS>   2.77619433     </STDV_OBS>
+ <EXP>
+ <ID>        2812 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   8.44004154     </MEAN>
+ <STDV>   4.04373058E-26 </STDV>
+ <BIAS>   1.20697403     </BIAS>
+ <RMSE>  0.900310218     </RMSE>
+ <CORR>   3.55344860E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2812 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.21325254     </BIAS>
+ <RMSE>  0.899301648     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2812 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.385135680     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.24328887     </BIAS>
+ <RMSE>  0.895078301     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.31701517     </MEAN_OBS>
+ <STDV_OBS>   2.37867785     </STDV_OBS>
+ <EXP>
+ <ID>        2860 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   7.30965090     </MEAN>
+ <STDV>   1.60049524E-26 </STDV>
+ <BIAS>   1.40843248     </BIAS>
+ <RMSE>  0.818407714     </RMSE>
+ <CORR>   4.04366156E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2860 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.41885567     </BIAS>
+ <RMSE>  0.814769506     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2860 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   8.31167889     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.42077136     </BIAS>
+ <RMSE>  0.815677762     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.07951117     </MEAN_OBS>
+ <STDV_OBS>   2.49728060     </STDV_OBS>
+ <EXP>
+ <ID>        2819 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   7.14865303     </MEAN>
+ <STDV>   4.04370100E-26 </STDV>
+ <BIAS>   1.49068499     </BIAS>
+ <RMSE>  0.838756561     </RMSE>
+ <CORR>   1.16991154E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2819 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.48563433     </BIAS>
+ <RMSE>  0.840467513     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2819 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   9.68875313     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.51642978     </BIAS>
+ <RMSE>  0.833184063     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.588427663     </MEAN_OBS>
+ <STDV_OBS>   1.58277571     </STDV_OBS>
+ <EXP>
+ <ID>        2701 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   2.09085751     </MEAN>
+ <STDV>   4.04366156E-26 </STDV>
+ <BIAS>   1.01147103     </BIAS>
+ <RMSE>  0.783280015     </RMSE>
+ <CORR>   3.55344860E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2701 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.00731254     </BIAS>
+ <RMSE>  0.785087407     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2701 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   10.0071316     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.01111341     </BIAS>
+ <RMSE>  0.785119653     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.28155041     </MEAN_OBS>
+ <STDV_OBS>   2.02801013     </STDV_OBS>
+ <EXP>
+ <ID>        2702 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         970 </NUM>
+ <MEAN>   6.35644245     </MEAN>
+ <STDV>   1.10941114E-27 </STDV>
+ <BIAS>   1.43460476     </BIAS>
+ <RMSE>  0.792477012     </RMSE>
+ <CORR>   4.04372072E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2702 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         970 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.43093014     </BIAS>
+ <RMSE>  0.792548120     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2702 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         970 </NUM>
+ <MEAN>   6.13416100     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.43701601     </BIAS>
+ <RMSE>  0.790006995     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.79621553     </MEAN_OBS>
+ <STDV_OBS>   2.06209421     </STDV_OBS>
+ <EXP>
+ <ID>        2858 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   6.46407461     </MEAN>
+ <STDV>   3.55344860E-26 </STDV>
+ <BIAS>   1.34386599     </BIAS>
+ <RMSE>  0.829697490     </RMSE>
+ <CORR>   1.16991154E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2858 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.34423876     </BIAS>
+ <RMSE>  0.829104125     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2858 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   13292.5391     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.32712352     </BIAS>
+ <RMSE>  0.833811700     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.99596834     </MEAN_OBS>
+ <STDV_OBS>   1.76420224     </STDV_OBS>
+ <EXP>
+ <ID>        2764 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         967 </NUM>
+ <MEAN>   5.38136721     </MEAN>
+ <STDV>   1.10170897E-27 </STDV>
+ <BIAS>   1.59718919     </BIAS>
+ <RMSE>  0.767685771     </RMSE>
+ <CORR>   1.60050017E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2764 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         967 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.61548591     </BIAS>
+ <RMSE>  0.761730433     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2764 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         967 </NUM>
+ <MEAN>   6.53869486     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.59741390     </BIAS>
+ <RMSE>  0.767399192     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.31794357     </MEAN_OBS>
+ <STDV_OBS>   3.01570702     </STDV_OBS>
+ <EXP>
+ <ID>        2880 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         964 </NUM>
+ <MEAN>   9.00019264     </MEAN>
+ <STDV>   4.04373058E-26 </STDV>
+ <BIAS>   1.61703265     </BIAS>
+ <RMSE>  0.846312881     </RMSE>
+ <CORR>   4.04372072E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2880 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         964 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.63447535     </BIAS>
+ <RMSE>  0.844765663     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2880 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         964 </NUM>
+ <MEAN>   8.60867786     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.62901664     </BIAS>
+ <RMSE>  0.843845725     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.44567966     </MEAN_OBS>
+ <STDV_OBS>   2.80486107     </STDV_OBS>
+ <EXP>
+ <ID>        2844 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         970 </NUM>
+ <MEAN>   8.04582214     </MEAN>
+ <STDV>   1.60049524E-26 </STDV>
+ <BIAS>   1.31459272     </BIAS>
+ <RMSE>  0.902067900     </RMSE>
+ <CORR>   1.16991154E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2844 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         970 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.28923285     </BIAS>
+ <RMSE>  0.906090677     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2844 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         970 </NUM>
+ <MEAN>   13390.6328     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.30325305     </BIAS>
+ <RMSE>  0.903924465     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.77776718     </MEAN_OBS>
+ <STDV_OBS>   2.78579164     </STDV_OBS>
+ <EXP>
+ <ID>        2845 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   8.24551678     </MEAN>
+ <STDV>   4.04370100E-26 </STDV>
+ <BIAS>   1.19775915     </BIAS>
+ <RMSE>  0.902327895     </RMSE>
+ <CORR>   1.60050017E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2845 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.19108021     </BIAS>
+ <RMSE>  0.905293643     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2845 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   15589.3291     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.19933462     </BIAS>
+ <RMSE>  0.903608799     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.61331463     </MEAN_OBS>
+ <STDV_OBS>   2.53350401     </STDV_OBS>
+ <EXP>
+ <ID>        2836 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   7.98896456     </MEAN>
+ <STDV>   4.04366156E-26 </STDV>
+ <BIAS>   1.24764287     </BIAS>
+ <RMSE>  0.875152946     </RMSE>
+ <CORR>   4.04372072E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2836 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.26255167     </BIAS>
+ <RMSE>  0.872302234     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2836 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   12908.9580     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.25533867     </BIAS>
+ <RMSE>  0.873862684     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.16147995     </MEAN_OBS>
+ <STDV_OBS>   2.56493473     </STDV_OBS>
+ <EXP>
+ <ID>        2814 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   7.97000027     </MEAN>
+ <STDV>   1.10941114E-27 </STDV>
+ <BIAS>   1.29305959     </BIAS>
+ <RMSE>  0.879425526     </RMSE>
+ <CORR>   1.16991154E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2814 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.29539692     </BIAS>
+ <RMSE>  0.879408360     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2814 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   16125.9951     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.31687033     </BIAS>
+ <RMSE>  0.875110984     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.70073223     </MEAN_OBS>
+ <STDV_OBS>   2.35552144     </STDV_OBS>
+ <EXP>
+ <ID>        2849 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         844 </NUM>
+ <MEAN>   7.60969591     </MEAN>
+ <STDV>   3.55344860E-26 </STDV>
+ <BIAS>   1.68731487     </BIAS>
+ <RMSE>  0.804446578     </RMSE>
+ <CORR>   1.60050017E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2849 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         844 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.68632889     </BIAS>
+ <RMSE>  0.804533303     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2849 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         844 </NUM>
+ <MEAN>   16059.7578     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.68342304     </BIAS>
+ <RMSE>  0.805354536     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.75994468     </MEAN_OBS>
+ <STDV_OBS>   1.51892471     </STDV_OBS>
+ <EXP>
+ <ID>        2801 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   2.84103012     </MEAN>
+ <STDV>   1.10170897E-27 </STDV>
+ <BIAS>   1.20729315     </BIAS>
+ <RMSE>  0.669315457     </RMSE>
+ <CORR>   4.04372072E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2801 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.21327472     </BIAS>
+ <RMSE>  0.666542828     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2801 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   13290.2305     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.20654035     </BIAS>
+ <RMSE>  0.671158969     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.85962391     </MEAN_OBS>
+ <STDV_OBS>   2.15383124     </STDV_OBS>
+ <EXP>
+ <ID>        2805 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.37955379     </MEAN>
+ <STDV>   4.04373058E-26 </STDV>
+ <BIAS>   1.50263989     </BIAS>
+ <RMSE>  0.782147169     </RMSE>
+ <CORR>   1.16991154E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2805 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.52372408     </BIAS>
+ <RMSE>  0.775705397     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2805 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   16931.5664     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.51386356     </BIAS>
+ <RMSE>  0.777577341     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.53111362     </MEAN_OBS>
+ <STDV_OBS>   2.03307199     </STDV_OBS>
+ <EXP>
+ <ID>        2835 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         858 </NUM>
+ <MEAN>   7.13229656     </MEAN>
+ <STDV>   1.60049524E-26 </STDV>
+ <BIAS>   1.45115066     </BIAS>
+ <RMSE>  0.778193593     </RMSE>
+ <CORR>   1.60050017E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2835 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         858 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.45424628     </BIAS>
+ <RMSE>  0.777877390     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2835 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         858 </NUM>
+ <MEAN>   16016.8174     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.46064067     </BIAS>
+ <RMSE>  0.775996804     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.13842487     </MEAN_OBS>
+ <STDV_OBS>   2.99188209     </STDV_OBS>
+ <EXP>
+ <ID>        2864 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   8.85293674     </MEAN>
+ <STDV>   4.04370100E-26 </STDV>
+ <BIAS>   1.55508137     </BIAS>
+ <RMSE>  0.859095395     </RMSE>
+ <CORR>   4.04372072E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2864 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.56203413     </BIAS>
+ <RMSE>  0.862047374     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2864 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   13738.1514     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.54256403     </BIAS>
+ <RMSE>  0.860360444     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.00871754     </MEAN_OBS>
+ <STDV_OBS>   2.45901752     </STDV_OBS>
+ <EXP>
+ <ID>        2881 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   8.63012981     </MEAN>
+ <STDV>   4.04366156E-26 </STDV>
+ <BIAS>   1.46834695     </BIAS>
+ <RMSE>  0.857387066     </RMSE>
+ <CORR>   1.16991154E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2881 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.44935334     </BIAS>
+ <RMSE>  0.861346662     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2881 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   17218.9785     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.46496022     </BIAS>
+ <RMSE>  0.858120859     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.98012733     </MEAN_OBS>
+ <STDV_OBS>   2.33013320     </STDV_OBS>
+ <EXP>
+ <ID>        2720 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   7.17852640     </MEAN>
+ <STDV>   1.10941114E-27 </STDV>
+ <BIAS>   1.49407744     </BIAS>
+ <RMSE>  0.786441267     </RMSE>
+ <CORR>   1.60050017E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2720 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.49883223     </BIAS>
+ <RMSE>  0.783553064     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2720 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   17410.9375     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.48414600     </BIAS>
+ <RMSE>  0.788488626     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.77489805     </MEAN_OBS>
+ <STDV_OBS>   1.82767773     </STDV_OBS>
+ <EXP>
+ <ID>        2824 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.35370111     </MEAN>
+ <STDV>   3.55344860E-26 </STDV>
+ <BIAS>   1.33880734     </BIAS>
+ <RMSE>  0.809692144     </RMSE>
+ <CORR>   4.04372072E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2824 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.36562526     </BIAS>
+ <RMSE>  0.801091433     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2824 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   23642.9570     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.34974062     </BIAS>
+ <RMSE>  0.806165099     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.82449055     </MEAN_OBS>
+ <STDV_OBS>   2.31484962     </STDV_OBS>
+ <EXP>
+ <ID>        2816 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   7.49418545     </MEAN>
+ <STDV>   1.60050017E-26 </STDV>
+ <BIAS>   1.83511114     </BIAS>
+ <RMSE>  0.770373464     </RMSE>
+ <CORR>   1.16991154E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2816 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.84226990     </BIAS>
+ <RMSE>  0.768411875     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2816 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   1.74204731     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.86570334     </BIAS>
+ <RMSE>  0.761785209     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.50499821     </MEAN_OBS>
+ <STDV_OBS>   1.74837995     </STDV_OBS>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   2.79345250     </MEAN>
+ <STDV>   4.04373058E-26 </STDV>
+ <BIAS>   1.11288810     </BIAS>
+ <RMSE>  0.795205474     </RMSE>
+ <CORR>   1.10170897E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.11822486     </BIAS>
+ <RMSE>  0.791115642     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   16809.8066     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.12045765     </BIAS>
+ <RMSE>  0.792848349     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.62984800     </MEAN_OBS>
+ <STDV_OBS>   2.01906419     </STDV_OBS>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   4.51902914     </MEAN>
+ <STDV>   1.16991154E-27 </STDV>
+ <BIAS>   1.52459371     </BIAS>
+ <RMSE>  0.769376874     </RMSE>
+ <CORR>   4.04372072E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.52639163     </BIAS>
+ <RMSE>  0.768930495     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   16118.6807     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.50268793     </BIAS>
+ <RMSE>  0.776683748     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.01528597     </MEAN_OBS>
+ <STDV_OBS>   2.73467350     </STDV_OBS>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   7.18555069     </MEAN>
+ <STDV>   1.10170897E-27 </STDV>
+ <BIAS>   1.57776189     </BIAS>
+ <RMSE>  0.857515991     </RMSE>
+ <CORR>   1.60049524E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.57223618     </BIAS>
+ <RMSE>  0.859028399     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   20184.1328     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.56191719     </BIAS>
+ <RMSE>  0.860249996     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.71732020     </MEAN_OBS>
+ <STDV_OBS>   3.40867543     </STDV_OBS>
+ <EXP>
+ <ID>        2101 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   3.01561499     </MEAN>
+ <STDV>   4.04366156E-26 </STDV>
+ <BIAS>   1.45643103     </BIAS>
+ <RMSE>  0.907050133     </RMSE>
+ <CORR>   4.04370100E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2101 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.44209921     </BIAS>
+ <RMSE>  0.908171117     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2101 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   16722.3828     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.42978561     </BIAS>
+ <RMSE>  0.909461200     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.08836555     </MEAN_OBS>
+ <STDV_OBS>   3.65876245     </STDV_OBS>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   3.98510456     </MEAN>
+ <STDV>   1.10941114E-27 </STDV>
+ <BIAS>   2.12491012     </BIAS>
+ <RMSE>  0.836935997     </RMSE>
+ <CORR>   4.04372072E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.13465071     </BIAS>
+ <RMSE>  0.836815000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   14686.2158     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.17604208     </BIAS>
+ <RMSE>  0.830586970     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.15057325     </MEAN_OBS>
+ <STDV_OBS>   3.33016944     </STDV_OBS>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   4.77425337     </MEAN>
+ <STDV>   3.55344860E-26 </STDV>
+ <BIAS>   1.51934671     </BIAS>
+ <RMSE>  0.905894399     </RMSE>
+ <CORR>   1.60049524E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.52068722     </BIAS>
+ <RMSE>  0.905753314     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   15330.5508     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.51857138     </BIAS>
+ <RMSE>  0.906100690     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.02577972     </MEAN_OBS>
+ <STDV_OBS>   3.76329255     </STDV_OBS>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   4.51619720     </MEAN>
+ <STDV>   1.60050017E-26 </STDV>
+ <BIAS>   1.87827730     </BIAS>
+ <RMSE>  0.869623184     </RMSE>
+ <CORR>   4.04370100E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.86248827     </BIAS>
+ <RMSE>  0.871161103     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   16723.7070     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.87967908     </BIAS>
+ <RMSE>  0.869737387     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.35583639     </MEAN_OBS>
+ <STDV_OBS>   3.83149147     </STDV_OBS>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   4.65212440     </MEAN>
+ <STDV>   4.04373058E-26 </STDV>
+ <BIAS>   1.35903549     </BIAS>
+ <RMSE>  0.934232831     </RMSE>
+ <CORR>   4.04372072E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.40554428     </BIAS>
+ <RMSE>  0.931204736     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   15371.3682     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.37552214     </BIAS>
+ <RMSE>  0.933268547     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.07796669     </MEAN_OBS>
+ <STDV_OBS>   3.83723164     </STDV_OBS>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   7.98584843     </MEAN>
+ <STDV>   1.16991154E-27 </STDV>
+ <BIAS>   2.19660616     </BIAS>
+ <RMSE>  0.840768218     </RMSE>
+ <CORR>   1.60049524E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.20881295     </BIAS>
+ <RMSE>  0.838465512     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   16518.2285     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.18037343     </BIAS>
+ <RMSE>  0.840691626     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.33300209     </MEAN_OBS>
+ <STDV_OBS>   2.99764061     </STDV_OBS>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   8.73958111     </MEAN>
+ <STDV>   1.10170897E-27 </STDV>
+ <BIAS>   1.77133095     </BIAS>
+ <RMSE>  0.809261143     </RMSE>
+ <CORR>   4.04370100E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.78387189     </BIAS>
+ <RMSE>  0.809616625     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   14589.7715     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.77497351     </BIAS>
+ <RMSE>  0.809331357     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.29137039     </MEAN_OBS>
+ <STDV_OBS>   3.29033351     </STDV_OBS>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   2.97762370     </MEAN>
+ <STDV>   4.04366156E-26 </STDV>
+ <BIAS>   1.52138758     </BIAS>
+ <RMSE>  0.889707565     </RMSE>
+ <CORR>   4.04372072E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.54549706     </BIAS>
+ <RMSE>  0.886720181     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   13026.9053     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.52789938     </BIAS>
+ <RMSE>  0.889375746     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.49633098     </MEAN_OBS>
+ <STDV_OBS>   3.84635592     </STDV_OBS>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   4.56503153     </MEAN>
+ <STDV>   4.04370100E-26 </STDV>
+ <BIAS>   1.89696395     </BIAS>
+ <RMSE>  0.869854927     </RMSE>
+ <CORR>   1.60049524E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.89706719     </BIAS>
+ <RMSE>  0.870171845     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   14186.8164     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.88404822     </BIAS>
+ <RMSE>  0.872577131     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.64343452     </MEAN_OBS>
+ <STDV_OBS>   3.71010280     </STDV_OBS>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   7.89156246     </MEAN>
+ <STDV>   4.04372072E-26 </STDV>
+ <BIAS>   1.58194697     </BIAS>
+ <RMSE>  0.913945854     </RMSE>
+ <CORR>   1.10941114E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.55361283     </BIAS>
+ <RMSE>  0.916770339     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   16128.0322     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.58626604     </BIAS>
+ <RMSE>  0.913390636     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.97075653     </MEAN_OBS>
+ <STDV_OBS>   3.52411008     </STDV_OBS>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   8.22260571     </MEAN>
+ <STDV>   1.60049524E-26 </STDV>
+ <BIAS>   1.62305176     </BIAS>
+ <RMSE>  0.886155188     </RMSE>
+ <CORR>   3.55344860E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.61039853     </BIAS>
+ <RMSE>  0.889978290     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   13049.3438     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.62142849     </BIAS>
+ <RMSE>  0.887795687     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.45876122     </MEAN_OBS>
+ <STDV_OBS>   3.56149268     </STDV_OBS>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         933 </NUM>
+ <MEAN>   7.93426466     </MEAN>
+ <STDV>   4.04373058E-26 </STDV>
+ <BIAS>   1.37468123     </BIAS>
+ <RMSE>  0.922827482     </RMSE>
+ <CORR>   1.60050017E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         933 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.38501585     </BIAS>
+ <RMSE>  0.921129823     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         933 </NUM>
+ <MEAN>   9972.47852     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.38524473     </BIAS>
+ <RMSE>  0.921555042     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.78762269     </MEAN_OBS>
+ <STDV_OBS>   2.72948933     </STDV_OBS>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   3.29504538     </MEAN>
+ <STDV>   1.16991154E-27 </STDV>
+ <BIAS>   1.41746318     </BIAS>
+ <RMSE>  0.861843348     </RMSE>
+ <CORR>   1.10941114E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.39949059     </BIAS>
+ <RMSE>  0.865417778     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   10594.9902     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.43488193     </BIAS>
+ <RMSE>  0.858900547     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.32159472     </MEAN_OBS>
+ <STDV_OBS>   3.23821187     </STDV_OBS>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         944 </NUM>
+ <MEAN>   4.28162718     </MEAN>
+ <STDV>   1.10170897E-27 </STDV>
+ <BIAS>   1.68283153     </BIAS>
+ <RMSE>  0.852876067     </RMSE>
+ <CORR>   3.55344860E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         944 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.66859806     </BIAS>
+ <RMSE>  0.856588364     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         944 </NUM>
+ <MEAN>   15434.4854     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.67585826     </BIAS>
+ <RMSE>  0.855584741     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.91460037     </MEAN_OBS>
+ <STDV_OBS>   4.40093088     </STDV_OBS>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         829 </NUM>
+ <MEAN>   4.99708462     </MEAN>
+ <STDV>   1.10941114E-27 </STDV>
+ <BIAS>   1.62669575     </BIAS>
+ <RMSE>  0.931208789     </RMSE>
+ <CORR>   1.60050017E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         829 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.61857688     </BIAS>
+ <RMSE>  0.930932283     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         829 </NUM>
+ <MEAN>   16517.5352     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.64084518     </BIAS>
+ <RMSE>  0.929857850     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.00752354     </MEAN_OBS>
+ <STDV_OBS>   3.04405141     </STDV_OBS>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   7.95291281     </MEAN>
+ <STDV>   4.04370100E-26 </STDV>
+ <BIAS>   1.40107775     </BIAS>
+ <RMSE>  0.899924099     </RMSE>
+ <CORR>   4.04366156E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.37735581     </BIAS>
+ <RMSE>  0.903725982     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   17458.5879     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.38655376     </BIAS>
+ <RMSE>  0.902722120     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.72392273     </MEAN_OBS>
+ <STDV_OBS>   3.29972935     </STDV_OBS>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   8.64697742     </MEAN>
+ <STDV>   4.04372072E-26 </STDV>
+ <BIAS>   1.69856322     </BIAS>
+ <RMSE>  0.863396347     </RMSE>
+ <CORR>   3.55344860E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.66946268     </BIAS>
+ <RMSE>  0.868659139     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   16051.9785     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.69423866     </BIAS>
+ <RMSE>  0.864486039     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.84967256     </MEAN_OBS>
+ <STDV_OBS>   3.77638149     </STDV_OBS>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   3.65690207     </MEAN>
+ <STDV>   1.60049524E-26 </STDV>
+ <BIAS>   1.98607826     </BIAS>
+ <RMSE>  0.863473415     </RMSE>
+ <CORR>   1.60050017E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.97147894     </BIAS>
+ <RMSE>  0.866138458     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   11901.4658     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.99943972     </BIAS>
+ <RMSE>  0.861248910     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.97366047     </MEAN_OBS>
+ <STDV_OBS>   3.94934130     </STDV_OBS>
+ <EXP>
+ <ID>        2286 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   7.20238400     </MEAN>
+ <STDV>   3.55344860E-26 </STDV>
+ <BIAS>   1.75695264     </BIAS>
+ <RMSE>  0.896039367     </RMSE>
+ <CORR>   4.04366156E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2286 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.74741292     </BIAS>
+ <RMSE>  0.895903230     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2286 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   15733.9053     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.76592338     </BIAS>
+ <RMSE>  0.894709229     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.45400047     </MEAN_OBS>
+ <STDV_OBS>   4.11316824     </STDV_OBS>
+ <EXP>
+ <ID>        2293 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   6.99739552     </MEAN>
+ <STDV>   1.16991154E-27 </STDV>
+ <BIAS>   1.66825747     </BIAS>
+ <RMSE>  0.914214969     </RMSE>
+ <CORR>   4.04373058E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2293 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.67460918     </BIAS>
+ <RMSE>  0.913577437     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2293 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   13970.1162     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.66910684     </BIAS>
+ <RMSE>  0.913876116     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.81086206     </MEAN_OBS>
+ <STDV_OBS>   4.02860165     </STDV_OBS>
+ <EXP>
+ <ID>        2267 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   6.09665871     </MEAN>
+ <STDV>   1.10170897E-27 </STDV>
+ <BIAS>   1.80246711     </BIAS>
+ <RMSE>  0.902513742     </RMSE>
+ <CORR>   1.60050017E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2267 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.80289638     </BIAS>
+ <RMSE>  0.901956260     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2267 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   16315.0117     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.80738473     </BIAS>
+ <RMSE>  0.901769757     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.70678902     </MEAN_OBS>
+ <STDV_OBS>   2.05641961     </STDV_OBS>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         566 </NUM>
+ <MEAN>   4.88892317     </MEAN>
+ <STDV>   1.10941114E-27 </STDV>
+ <BIAS>   1.57467222     </BIAS>
+ <RMSE>  0.756942809     </RMSE>
+ <CORR>   4.04366156E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         566 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.57008517     </BIAS>
+ <RMSE>  0.758352995     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         566 </NUM>
+ <MEAN>   14604.0508     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.57561123     </BIAS>
+ <RMSE>  0.756214321     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   10.7860489     </MEAN_OBS>
+ <STDV_OBS>   2.99773359     </STDV_OBS>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         265 </NUM>
+ <MEAN>   9.90787029     </MEAN>
+ <STDV>   1.60050017E-26 </STDV>
+ <BIAS>   1.61759543     </BIAS>
+ <RMSE>  0.840007305     </RMSE>
+ <CORR>   4.04373058E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         265 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.63635552     </BIAS>
+ <RMSE>  0.837917864     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         265 </NUM>
+ <MEAN>   17071.8145     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.64240670     </BIAS>
+ <RMSE>  0.838468611     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.83884811     </MEAN_OBS>
+ <STDV_OBS>   3.48254418     </STDV_OBS>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   8.06141853     </MEAN>
+ <STDV>   4.04372072E-26 </STDV>
+ <BIAS>   1.65697062     </BIAS>
+ <RMSE>  0.901697636     </RMSE>
+ <CORR>   4.04370100E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.68380582     </BIAS>
+ <RMSE>  0.898286819     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   10780.3906     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.66227853     </BIAS>
+ <RMSE>  0.900989592     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.71068943     </MEAN_OBS>
+ <STDV_OBS>   2.44506288     </STDV_OBS>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   3.17841935     </MEAN>
+ <STDV>   1.60049524E-26 </STDV>
+ <BIAS>   1.37840247     </BIAS>
+ <RMSE>  0.852948964     </RMSE>
+ <CORR>   4.04366156E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.38386536     </BIAS>
+ <RMSE>  0.852006793     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   12063.6738     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.38300192     </BIAS>
+ <RMSE>  0.852046430     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.85927892     </MEAN_OBS>
+ <STDV_OBS>   2.93864846     </STDV_OBS>
+ <EXP>
+ <ID>        2024 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   3.13641238     </MEAN>
+ <STDV>   4.04370100E-26 </STDV>
+ <BIAS>   1.57438755     </BIAS>
+ <RMSE>  0.842575550     </RMSE>
+ <CORR>   4.04373058E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2024 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.57621121     </BIAS>
+ <RMSE>  0.843032420     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2024 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   15529.5234     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.57391942     </BIAS>
+ <RMSE>  0.844297707     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.21774110E-02 </MEAN_OBS>
+ <STDV_OBS>   2.48895979     </STDV_OBS>
+ <EXP>
+ <ID>        2029 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   6.49922192E-02 </MEAN>
+ <STDV>   4.04366156E-26 </STDV>
+ <BIAS>   1.60927844     </BIAS>
+ <RMSE>  0.798967540     </RMSE>
+ <CORR>   3.55344860E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2029 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.61726284     </BIAS>
+ <RMSE>  0.797099590     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2029 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   14316.9434     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.62147415     </BIAS>
+ <RMSE>  0.796246707     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.59806061     </MEAN_OBS>
+ <STDV_OBS>   2.50880575     </STDV_OBS>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   3.04681778     </MEAN>
+ <STDV>   4.04373058E-26 </STDV>
+ <BIAS>   1.33579648     </BIAS>
+ <RMSE>  0.847859919     </RMSE>
+ <CORR>   1.16991154E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.34985399     </BIAS>
+ <RMSE>  0.846853018     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>  0.542035222     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.35727322     </BIAS>
+ <RMSE>  0.842761934     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.94786143     </MEAN_OBS>
+ <STDV_OBS>   3.03489017     </STDV_OBS>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   3.62102246     </MEAN>
+ <STDV>   3.55344860E-26 </STDV>
+ <BIAS>   1.57725537     </BIAS>
+ <RMSE>  0.869730711     </RMSE>
+ <CORR>   1.10170897E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.55467951     </BIAS>
+ <RMSE>  0.872525930     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   17178.0840     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.56013644     </BIAS>
+ <RMSE>  0.872951269     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.58064151     </MEAN_OBS>
+ <STDV_OBS>   2.58703876     </STDV_OBS>
+ <EXP>
+ <ID>        2044 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   3.38239598     </MEAN>
+ <STDV>   1.16991154E-27 </STDV>
+ <BIAS>   1.16243243     </BIAS>
+ <RMSE>  0.897501290     </RMSE>
+ <CORR>   1.10941114E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2044 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.14892662     </BIAS>
+ <RMSE>  0.896845341     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2044 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   19388.3164     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.14167476     </BIAS>
+ <RMSE>  0.897789299     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.50195765     </MEAN_OBS>
+ <STDV_OBS>   1.81191766     </STDV_OBS>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   3.02288628     </MEAN>
+ <STDV>   4.04372072E-26 </STDV>
+ <BIAS>   1.21413016     </BIAS>
+ <RMSE>  0.822090983     </RMSE>
+ <CORR>   1.60050017E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.20932913     </BIAS>
+ <RMSE>  0.823300779     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   14655.5469     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.19333303     </BIAS>
+ <RMSE>  0.828266978     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.09814644     </MEAN_OBS>
+ <STDV_OBS>   2.71035433     </STDV_OBS>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   6.26397181     </MEAN>
+ <STDV>   1.60049524E-26 </STDV>
+ <BIAS>   1.70856285     </BIAS>
+ <RMSE>  0.816243768     </RMSE>
+ <CORR>   1.10170897E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.69056833     </BIAS>
+ <RMSE>  0.821037650     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   14974.6758     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.69697797     </BIAS>
+ <RMSE>  0.818766952     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.33888483     </MEAN_OBS>
+ <STDV_OBS>   2.28931546     </STDV_OBS>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   5.52103043     </MEAN>
+ <STDV>   1.60050017E-26 </STDV>
+ <BIAS>   1.36038482     </BIAS>
+ <RMSE>  0.832417071     </RMSE>
+ <CORR>   1.10941114E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.37364066     </BIAS>
+ <RMSE>  0.827688694     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   15297.2822     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.39464831     </BIAS>
+ <RMSE>  0.821223736     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.362635285     </MEAN_OBS>
+ <STDV_OBS>   3.08891392     </STDV_OBS>
+ <EXP>
+ <ID>        2102 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   1.41138172     </MEAN>
+ <STDV>   4.04366156E-26 </STDV>
+ <BIAS>   1.44528079     </BIAS>
+ <RMSE>  0.891478062     </RMSE>
+ <CORR>   4.04370100E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2102 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.43855822     </BIAS>
+ <RMSE>  0.892650902     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2102 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   17723.5020     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.44998515     </BIAS>
+ <RMSE>  0.889828503     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.25025868     </MEAN_OBS>
+ <STDV_OBS>   3.37259698     </STDV_OBS>
+ <EXP>
+ <ID>        2103 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   2.46824479     </MEAN>
+ <STDV>   4.04373058E-26 </STDV>
+ <BIAS>   1.40078962     </BIAS>
+ <RMSE>  0.913309693     </RMSE>
+ <CORR>   1.10170897E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2103 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.37811530     </BIAS>
+ <RMSE>  0.915816009     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2103 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   10.4624281     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.37220812     </BIAS>
+ <RMSE>  0.916240990     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.26735497     </MEAN_OBS>
+ <STDV_OBS>   3.16024184     </STDV_OBS>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   2.52468491     </MEAN>
+ <STDV>   3.55344860E-26 </STDV>
+ <BIAS>   1.78259206     </BIAS>
+ <RMSE>  0.867845178     </RMSE>
+ <CORR>   1.10941114E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.77662253     </BIAS>
+ <RMSE>  0.868795276     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   8.70374966     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.77865803     </BIAS>
+ <RMSE>  0.868483603     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.39030886     </MEAN_OBS>
+ <STDV_OBS>   3.55883193     </STDV_OBS>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         943 </NUM>
+ <MEAN>   4.44610548     </MEAN>
+ <STDV>   1.10941114E-27 </STDV>
+ <BIAS>   1.84917605     </BIAS>
+ <RMSE>  0.870144367     </RMSE>
+ <CORR>   1.16991154E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         943 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.83701193     </BIAS>
+ <RMSE>  0.871824265     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         943 </NUM>
+ <MEAN>   15534.2021     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.85725367     </BIAS>
+ <RMSE>  0.868905485     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.47213221     </MEAN_OBS>
+ <STDV_OBS>   3.80963492     </STDV_OBS>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         829 </NUM>
+ <MEAN>   3.64278436     </MEAN>
+ <STDV>   1.60049524E-26 </STDV>
+ <BIAS>   1.17338872     </BIAS>
+ <RMSE>  0.951734304     </RMSE>
+ <CORR>   4.04372072E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         829 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.17206025     </BIAS>
+ <RMSE>  0.951796293     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         829 </NUM>
+ <MEAN>   15385.3662     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.17603254     </BIAS>
+ <RMSE>  0.951569736     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.04372215     </MEAN_OBS>
+ <STDV_OBS>   3.70354867     </STDV_OBS>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   4.73710155     </MEAN>
+ <STDV>   1.60050017E-26 </STDV>
+ <BIAS>   1.63242519     </BIAS>
+ <RMSE>  0.898734808     </RMSE>
+ <CORR>   4.04370100E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.63811362     </BIAS>
+ <RMSE>  0.898323417     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   16667.1562     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.63583684     </BIAS>
+ <RMSE>  0.898309469     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.43201494     </MEAN_OBS>
+ <STDV_OBS>   3.45897126     </STDV_OBS>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   5.17814112     </MEAN>
+ <STDV>   4.04372072E-26 </STDV>
+ <BIAS>   1.90446651     </BIAS>
+ <RMSE>  0.865752637     </RMSE>
+ <CORR>   1.16991154E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.89801335     </BIAS>
+ <RMSE>  0.866710484     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   17930.0176     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.90719271     </BIAS>
+ <RMSE>  0.865467072     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.34546471     </MEAN_OBS>
+ <STDV_OBS>   3.48048449     </STDV_OBS>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   5.09137869     </MEAN>
+ <STDV>   4.04373058E-26 </STDV>
+ <BIAS>   1.43376541     </BIAS>
+ <RMSE>  0.914701462     </RMSE>
+ <CORR>   4.04366156E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.39410460     </BIAS>
+ <RMSE>  0.919345558     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   15901.1816     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.42961299     </BIAS>
+ <RMSE>  0.915114641     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.63062954     </MEAN_OBS>
+ <STDV_OBS>   3.86173177     </STDV_OBS>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   7.35991383     </MEAN>
+ <STDV>   3.55344860E-26 </STDV>
+ <BIAS>   1.95878494     </BIAS>
+ <RMSE>  0.869666457     </RMSE>
+ <CORR>   4.04370100E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.92816389     </BIAS>
+ <RMSE>  0.874709606     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   16157.9268     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.05073118     </BIAS>
+ <RMSE>  0.858688891     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.01971054     </MEAN_OBS>
+ <STDV_OBS>   3.73808694     </STDV_OBS>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   6.68025541     </MEAN>
+ <STDV>   1.10170897E-27 </STDV>
+ <BIAS>   2.02762890     </BIAS>
+ <RMSE>  0.856135547     </RMSE>
+ <CORR>   1.16991154E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.03770733     </BIAS>
+ <RMSE>  0.854111731     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   16101.0557     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.06088758     </BIAS>
+ <RMSE>  0.851729989     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.24578619     </MEAN_OBS>
+ <STDV_OBS>   3.79752374     </STDV_OBS>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   5.68065691     </MEAN>
+ <STDV>   1.10941114E-27 </STDV>
+ <BIAS>   1.73298371     </BIAS>
+ <RMSE>  0.894366503     </RMSE>
+ <CORR>   4.04366156E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.70567274     </BIAS>
+ <RMSE>  0.897580445     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   17310.6426     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.71825492     </BIAS>
+ <RMSE>  0.896111190     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.66365290     </MEAN_OBS>
+ <STDV_OBS>   3.54937935     </STDV_OBS>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         853 </NUM>
+ <MEAN>   7.35570621     </MEAN>
+ <STDV>   1.60049524E-26 </STDV>
+ <BIAS>   2.54790783     </BIAS>
+ <RMSE>  0.834623396     </RMSE>
+ <CORR>   4.04370100E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         853 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.51428604     </BIAS>
+ <RMSE>  0.839628577     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         853 </NUM>
+ <MEAN>   15910.7109     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.54150224     </BIAS>
+ <RMSE>  0.835522711     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.85466862     </MEAN_OBS>
+ <STDV_OBS>   3.34271502     </STDV_OBS>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   6.43978071     </MEAN>
+ <STDV>   1.60050017E-26 </STDV>
+ <BIAS>   1.42782605     </BIAS>
+ <RMSE>  0.899576426     </RMSE>
+ <CORR>   1.16991154E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.46436739     </BIAS>
+ <RMSE>  0.897434473     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   12693.8848     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.45185220     </BIAS>
+ <RMSE>  0.901042521     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.39241314     </MEAN_OBS>
+ <STDV_OBS>   3.21086621     </STDV_OBS>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   8.61429119     </MEAN>
+ <STDV>   4.04370100E-26 </STDV>
+ <BIAS>   1.51611793     </BIAS>
+ <RMSE>  0.882708132     </RMSE>
+ <CORR>   4.04366156E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.50878704     </BIAS>
+ <RMSE>  0.884076536     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   17447.3047     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.52184224     </BIAS>
+ <RMSE>  0.882037163     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.85286999     </MEAN_OBS>
+ <STDV_OBS>   3.07445598     </STDV_OBS>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         952 </NUM>
+ <MEAN>   7.48295689     </MEAN>
+ <STDV>   4.04373058E-26 </STDV>
+ <BIAS>   1.35770512     </BIAS>
+ <RMSE>  0.902425051     </RMSE>
+ <CORR>   4.04372072E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         952 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.34561920     </BIAS>
+ <RMSE>  0.904742122     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         952 </NUM>
+ <MEAN>   14055.9189     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.35750067     </BIAS>
+ <RMSE>  0.902889669     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.23917055     </MEAN_OBS>
+ <STDV_OBS>   3.27478719     </STDV_OBS>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   4.08102608     </MEAN>
+ <STDV>   3.55344860E-26 </STDV>
+ <BIAS>   1.74640608     </BIAS>
+ <RMSE>  0.860332549     </RMSE>
+ <CORR>   1.16991154E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.75884521     </BIAS>
+ <RMSE>  0.858200312     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   17032.0645     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.74075067     </BIAS>
+ <RMSE>  0.861885428     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.44919729     </MEAN_OBS>
+ <STDV_OBS>   3.51597714     </STDV_OBS>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   3.75117087     </MEAN>
+ <STDV>   4.04372072E-26 </STDV>
+ <BIAS>   1.95468104     </BIAS>
+ <RMSE>  0.834011018     </RMSE>
+ <CORR>   4.04366156E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.93402719     </BIAS>
+ <RMSE>  0.837577820     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   14156.1123     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.93497705     </BIAS>
+ <RMSE>  0.837366343     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.73854947     </MEAN_OBS>
+ <STDV_OBS>   3.42899251     </STDV_OBS>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   4.38479710     </MEAN>
+ <STDV>   1.10941114E-27 </STDV>
+ <BIAS>   1.76988316     </BIAS>
+ <RMSE>  0.865178406     </RMSE>
+ <CORR>   1.10170897E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.78207994     </BIAS>
+ <RMSE>  0.863379896     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   14356.6455     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.76864195     </BIAS>
+ <RMSE>  0.865637422     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.03204775     </MEAN_OBS>
+ <STDV_OBS>   3.68873191     </STDV_OBS>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   4.54964304     </MEAN>
+ <STDV>   4.04366156E-26 </STDV>
+ <BIAS>   2.07951999     </BIAS>
+ <RMSE>  0.835645974     </RMSE>
+ <CORR>   1.16991154E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.04618573     </BIAS>
+ <RMSE>  0.840755880     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   13294.3311     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.08036494     </BIAS>
+ <RMSE>  0.835335255     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.24882126     </MEAN_OBS>
+ <STDV_OBS>   3.93353915     </STDV_OBS>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         940 </NUM>
+ <MEAN>   5.44808769     </MEAN>
+ <STDV>   1.60050017E-26 </STDV>
+ <BIAS>   2.06251907     </BIAS>
+ <RMSE>  0.852708638     </RMSE>
+ <CORR>   1.60049524E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         940 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.04947329     </BIAS>
+ <RMSE>  0.854576647     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         940 </NUM>
+ <MEAN>   15097.1631     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.06818819     </BIAS>
+ <RMSE>  0.852707803     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.86230993     </MEAN_OBS>
+ <STDV_OBS>   3.88764167     </STDV_OBS>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   4.96953058     </MEAN>
+ <STDV>   1.16991154E-27 </STDV>
+ <BIAS>   1.83503735     </BIAS>
+ <RMSE>  0.888180315     </RMSE>
+ <CORR>   1.10170897E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.81655681     </BIAS>
+ <RMSE>  0.890430689     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   15286.3389     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.82216394     </BIAS>
+ <RMSE>  0.889405131     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.27178288     </MEAN_OBS>
+ <STDV_OBS>   3.61711264     </STDV_OBS>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   5.84143686     </MEAN>
+ <STDV>   1.60049524E-26 </STDV>
+ <BIAS>   1.99218202     </BIAS>
+ <RMSE>  0.852065682     </RMSE>
+ <CORR>   4.04370100E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.99145031     </BIAS>
+ <RMSE>  0.852543354     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   15559.7305     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.97910500     </BIAS>
+ <RMSE>  0.854387820     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.87158298     </MEAN_OBS>
+ <STDV_OBS>   3.81083083     </STDV_OBS>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   5.60416603     </MEAN>
+ <STDV>   3.55344860E-26 </STDV>
+ <BIAS>   1.86733961     </BIAS>
+ <RMSE>  0.879765093     </RMSE>
+ <CORR>   4.04373058E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.86133814     </BIAS>
+ <RMSE>  0.879637063     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         946 </NUM>
+ <MEAN>   15584.2852     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.85160792     </BIAS>
+ <RMSE>  0.881167173     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.819711030     </MEAN_OBS>
+ <STDV_OBS>   2.24279547     </STDV_OBS>
+ <EXP>
+ <ID>       20107 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         340 </NUM>
+ <MEAN>   1.76178265     </MEAN>
+ <STDV>   4.04372072E-26 </STDV>
+ <BIAS>   1.66636050     </BIAS>
+ <RMSE>  0.840359807     </RMSE>
+ <CORR>   1.10170897E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20107 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         340 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.65806937     </BIAS>
+ <RMSE>  0.841691554     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20107 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         340 </NUM>
+ <MEAN>   15423.5322     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.66625273     </BIAS>
+ <RMSE>  0.839794040     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.21251678     </MEAN_OBS>
+ <STDV_OBS>   2.24472046     </STDV_OBS>
+ <EXP>
+ <ID>       22003 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   7.04733133     </MEAN>
+ <STDV>   4.04373058E-26 </STDV>
+ <BIAS>   1.18807960     </BIAS>
+ <RMSE>  0.853177547     </RMSE>
+ <CORR>   4.04370100E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22003 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.16421604     </BIAS>
+ <RMSE>  0.857568681     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22003 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   9950.52344     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.15931070     </BIAS>
+ <RMSE>  0.858299077     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.16628408     </MEAN_OBS>
+ <STDV_OBS>   2.33729029     </STDV_OBS>
+ <EXP>
+ <ID>       22004 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   7.43101311     </MEAN>
+ <STDV>   1.10170897E-27 </STDV>
+ <BIAS>   1.55790555     </BIAS>
+ <RMSE>  0.830780745     </RMSE>
+ <CORR>   1.10941114E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22004 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.56341100     </BIAS>
+ <RMSE>  0.829481184     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22004 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   13439.4434     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.55325687     </BIAS>
+ <RMSE>  0.831852913     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.64971828     </MEAN_OBS>
+ <STDV_OBS>   2.20595098     </STDV_OBS>
+ <EXP>
+ <ID>       22100 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   7.79834175     </MEAN>
+ <STDV>   4.04370100E-26 </STDV>
+ <BIAS>   1.44199908     </BIAS>
+ <RMSE>  0.826989651     </RMSE>
+ <CORR>   4.04366156E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22100 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.44190431     </BIAS>
+ <RMSE>  0.826808214     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22100 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   18370.9590     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.42148030     </BIAS>
+ <RMSE>  0.832372248     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.53402233     </MEAN_OBS>
+ <STDV_OBS>   1.84845400     </STDV_OBS>
+ <EXP>
+ <ID>       22212 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   8.69075012     </MEAN>
+ <STDV>   1.16991154E-27 </STDV>
+ <BIAS>   1.36891413     </BIAS>
+ <RMSE>  0.811995387     </RMSE>
+ <CORR>   1.60050017E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22212 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.36713707     </BIAS>
+ <RMSE>  0.812173188     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22212 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   9871.18750     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.37550318     </BIAS>
+ <RMSE>  0.809706450     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.79622841     </MEAN_OBS>
+ <STDV_OBS>   2.70611405     </STDV_OBS>
+ <EXP>
+ <ID>       20744 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   5.47312260     </MEAN>
+ <STDV>   4.04366156E-26 </STDV>
+ <BIAS>   1.62430048     </BIAS>
+ <RMSE>  0.809031546     </RMSE>
+ <CORR>   1.10941114E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20744 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.61531413     </BIAS>
+ <RMSE>  0.810286462     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20744 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   14925.3506     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.61680639     </BIAS>
+ <RMSE>  0.810263336     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.49216270     </MEAN_OBS>
+ <STDV_OBS>   2.51823306     </STDV_OBS>
+ <EXP>
+ <ID>       22028 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   7.96244478     </MEAN>
+ <STDV>   1.60050017E-26 </STDV>
+ <BIAS>   1.16919458     </BIAS>
+ <RMSE>  0.895781577     </RMSE>
+ <CORR>   1.60049524E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22028 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.18437850     </BIAS>
+ <RMSE>  0.893401980     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22028 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   9880.81934     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.17055118     </BIAS>
+ <RMSE>  0.895482898     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.94535637     </MEAN_OBS>
+ <STDV_OBS>   2.26667666     </STDV_OBS>
+ <EXP>
+ <ID>       22106 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   8.33946609     </MEAN>
+ <STDV>   1.10941114E-27 </STDV>
+ <BIAS>   1.40388894     </BIAS>
+ <RMSE>  0.850109875     </RMSE>
+ <CORR>   3.55344860E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22106 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.39003408     </BIAS>
+ <RMSE>  0.853338420     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22106 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   11620.9043     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.39834094     </BIAS>
+ <RMSE>  0.851401031     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.689830422     </MEAN_OBS>
+ <STDV_OBS>   1.03613269     </STDV_OBS>
+ <EXP>
+ <ID>       20046 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>  0.291781574     </MEAN>
+ <STDV>   1.60049524E-26 </STDV>
+ <BIAS>  0.626301348     </BIAS>
+ <RMSE>  0.840332031     </RMSE>
+ <CORR>   4.04372072E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20046 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.624731362     </BIAS>
+ <RMSE>  0.841025651     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20046 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   12945.8408     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.624954820     </BIAS>
+ <RMSE>  0.841006219     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.27587748     </MEAN_OBS>
+ <STDV_OBS>   2.36445379     </STDV_OBS>
+ <EXP>
+ <ID>       22113 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   8.08994007     </MEAN>
+ <STDV>   3.55344860E-26 </STDV>
+ <BIAS>   1.35508931     </BIAS>
+ <RMSE>  0.864241302     </RMSE>
+ <CORR>   4.04373058E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22113 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.35227096     </BIAS>
+ <RMSE>  0.864793658     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22113 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         344 </NUM>
+ <MEAN>   8730.09766     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.36686885     </BIAS>
+ <RMSE>  0.861574173     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.19269180     </MEAN_OBS>
+ <STDV_OBS>   2.12467742     </STDV_OBS>
+ <EXP>
+ <ID>        1098 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   6.29113770     </MEAN>
+ <STDV>   4.04372072E-26 </STDV>
+ <BIAS>  0.873202503     </BIAS>
+ <RMSE>  0.911362350     </RMSE>
+ <CORR>   1.10170897E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1098 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.868605256     </BIAS>
+ <RMSE>  0.912474155     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1098 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   13189.8086     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.876474679     </BIAS>
+ <RMSE>  0.910850465     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.08546829     </MEAN_OBS>
+ <STDV_OBS>   1.69695580     </STDV_OBS>
+ <EXP>
+ <ID>        1003 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.533934534     </MEAN>
+ <STDV>   1.16991154E-27 </STDV>
+ <BIAS>   1.02989101     </BIAS>
+ <RMSE>  0.828047991     </RMSE>
+ <CORR>   4.04370100E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1003 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.03125203     </BIAS>
+ <RMSE>  0.827454209     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1003 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   2.22390032     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.03116202     </BIAS>
+ <RMSE>  0.827180684     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.23080158     </MEAN_OBS>
+ <STDV_OBS>   2.01208615     </STDV_OBS>
+ <EXP>
+ <ID>        1047 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         263 </NUM>
+ <MEAN>   3.81703329     </MEAN>
+ <STDV>   4.04366156E-26 </STDV>
+ <BIAS>   1.52196288     </BIAS>
+ <RMSE>  0.769329190     </RMSE>
+ <CORR>   4.04373058E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1047 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         263 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.50003493     </BIAS>
+ <RMSE>  0.775712550     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1047 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         263 </NUM>
+ <MEAN>   16222.6133     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.48582816     </BIAS>
+ <RMSE>  0.781038761     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.72572708     </MEAN_OBS>
+ <STDV_OBS>   1.51520526     </STDV_OBS>
+ <EXP>
+ <ID>        1049 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.21851873     </MEAN>
+ <STDV>   1.60050017E-26 </STDV>
+ <BIAS>   1.16352737     </BIAS>
+ <RMSE>  0.649503112     </RMSE>
+ <CORR>   1.10170897E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1049 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.16227400     </BIAS>
+ <RMSE>  0.650404096     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1049 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   16309.1074     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.15740502     </BIAS>
+ <RMSE>  0.652054489     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.29144573     </MEAN_OBS>
+ <STDV_OBS>   2.55263090     </STDV_OBS>
+ <EXP>
+ <ID>        1102 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   5.92197609     </MEAN>
+ <STDV>   1.10941114E-27 </STDV>
+ <BIAS>   1.03612816     </BIAS>
+ <RMSE>  0.918567538     </RMSE>
+ <CORR>   4.04370100E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1102 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.01985490     </BIAS>
+ <RMSE>  0.921367288     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1102 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   3.06328344     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.04738426     </BIAS>
+ <RMSE>  0.916965723     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.94563866     </MEAN_OBS>
+ <STDV_OBS>   3.01402617     </STDV_OBS>
+ <EXP>
+ <ID>        1281 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   4.71232510     </MEAN>
+ <STDV>   1.60049524E-26 </STDV>
+ <BIAS>   1.80264533     </BIAS>
+ <RMSE>  0.845111430     </RMSE>
+ <CORR>   4.04373058E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1281 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.83216739     </BIAS>
+ <RMSE>  0.840131402     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1281 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.397271216     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.80915427     </BIAS>
+ <RMSE>  0.844154537     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.69509363     </MEAN_OBS>
+ <STDV_OBS>   1.59403729     </STDV_OBS>
+ <EXP>
+ <ID>        1059 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         970 </NUM>
+ <MEAN>   5.28207493     </MEAN>
+ <STDV>   3.55344860E-26 </STDV>
+ <BIAS>   1.05093944     </BIAS>
+ <RMSE>  0.766336441     </RMSE>
+ <CORR>   1.10170897E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1059 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         970 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.05550456     </BIAS>
+ <RMSE>  0.761923611     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1059 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         970 </NUM>
+ <MEAN>   2.08114576     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.06159008     </BIAS>
+ <RMSE>  0.763548970     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.34679413     </MEAN_OBS>
+ <STDV_OBS>   2.10742593     </STDV_OBS>
+ <EXP>
+ <ID>        1089 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   6.91419840     </MEAN>
+ <STDV>   4.04372072E-26 </STDV>
+ <BIAS>   1.13287210     </BIAS>
+ <RMSE>  0.884093761     </RMSE>
+ <CORR>   4.04370100E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1089 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.13695633     </BIAS>
+ <RMSE>  0.883392215     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1089 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.414222389     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.15563154     </BIAS>
+ <RMSE>  0.878951311     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.88502693     </MEAN_OBS>
+ <STDV_OBS>  0.933868349     </STDV_OBS>
+ <EXP>
+ <ID>        1046 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   4.80515718     </MEAN>
+ <STDV>   1.16991154E-27 </STDV>
+ <BIAS>   1.06602204     </BIAS>
+ <RMSE>  0.590105534     </RMSE>
+ <CORR>   4.04373058E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1046 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.04147398     </BIAS>
+ <RMSE>  0.605369210     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1046 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.491551131     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.01854324     </BIAS>
+ <RMSE>  0.624464393     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.22803307     </MEAN_OBS>
+ <STDV_OBS>   1.31779683     </STDV_OBS>
+ <EXP>
+ <ID>        1107 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         939 </NUM>
+ <MEAN>   4.74930382     </MEAN>
+ <STDV>   4.04366156E-26 </STDV>
+ <BIAS>   1.15257645     </BIAS>
+ <RMSE>  0.565623999     </RMSE>
+ <CORR>   1.10170897E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1107 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         939 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.16895807     </BIAS>
+ <RMSE>  0.563941002     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1107 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         939 </NUM>
+ <MEAN>  0.376393706     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.14890373     </BIAS>
+ <RMSE>  0.570786893     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.68804598     </MEAN_OBS>
+ <STDV_OBS>   1.54799902     </STDV_OBS>
+ <EXP>
+ <ID>        1144 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.30094814     </MEAN>
+ <STDV>   1.60050017E-26 </STDV>
+ <BIAS>   1.20748103     </BIAS>
+ <RMSE>  0.656694293     </RMSE>
+ <CORR>   4.04370100E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1144 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.20225751     </BIAS>
+ <RMSE>  0.659905374     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1144 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.467420697     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.17738008     </BIAS>
+ <RMSE>  0.663786948     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.65338683     </MEAN_OBS>
+ <STDV_OBS>   2.85587406     </STDV_OBS>
+ <EXP>
+ <ID>        1122 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   4.91197157     </MEAN>
+ <STDV>   1.10941114E-27 </STDV>
+ <BIAS>   1.61448574     </BIAS>
+ <RMSE>  0.863138437     </RMSE>
+ <CORR>   4.04373058E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1122 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.59822750     </BIAS>
+ <RMSE>  0.866027832     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1122 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   6.51079559     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.57696712     </BIAS>
+ <RMSE>  0.869953573     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.59527493     </MEAN_OBS>
+ <STDV_OBS>  0.851989985     </STDV_OBS>
+ <EXP>
+ <ID>        1156 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   4.87022638     </MEAN>
+ <STDV>   1.60049524E-26 </STDV>
+ <BIAS>   1.03366506     </BIAS>
+ <RMSE>  0.330084592     </RMSE>
+ <CORR>   1.10170897E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1156 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.04104674     </BIAS>
+ <RMSE>  0.338993251     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1156 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   2.97830868     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.09797537     </BIAS>
+ <RMSE>  0.256082386     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.39437485     </MEAN_OBS>
+ <STDV_OBS>   1.93156672     </STDV_OBS>
+ <EXP>
+ <ID>        1121 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.41449785     </MEAN>
+ <STDV>   3.55344860E-26 </STDV>
+ <BIAS>   1.19122207     </BIAS>
+ <RMSE>  0.794400692     </RMSE>
+ <CORR>   4.04370100E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1121 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.18463480     </BIAS>
+ <RMSE>  0.798617899     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1121 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.959276080     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.18965685     </BIAS>
+ <RMSE>  0.796017587     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.87648058     </MEAN_OBS>
+ <STDV_OBS>   3.43074250     </STDV_OBS>
+ <EXP>
+ <ID>        1150 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   3.90914392     </MEAN>
+ <STDV>   4.04372072E-26 </STDV>
+ <BIAS>   1.81112552     </BIAS>
+ <RMSE>  0.851171196     </RMSE>
+ <CORR>   4.04373058E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1150 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.81015432     </BIAS>
+ <RMSE>  0.849986613     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1150 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.463243008     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.81325924     </BIAS>
+ <RMSE>  0.848748744     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.60163403     </MEAN_OBS>
+ <STDV_OBS>   1.50638616     </STDV_OBS>
+ <EXP>
+ <ID>        1152 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.34822512     </MEAN>
+ <STDV>   1.16991154E-27 </STDV>
+ <BIAS>   1.20727324     </BIAS>
+ <RMSE>  0.666075885     </RMSE>
+ <CORR>   1.10170897E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1152 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.18528056     </BIAS>
+ <RMSE>  0.680388391     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1152 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   11889.4219     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.16828859     </BIAS>
+ <RMSE>  0.684836447     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.55662143     </MEAN_OBS>
+ <STDV_OBS>   1.92432618     </STDV_OBS>
+ <EXP>
+ <ID>        1007 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         951 </NUM>
+ <MEAN>   1.41070509     </MEAN>
+ <STDV>   4.04366156E-26 </STDV>
+ <BIAS>   1.10023332     </BIAS>
+ <RMSE>  0.822328389     </RMSE>
+ <CORR>   4.04370100E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1007 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         951 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.11206353     </BIAS>
+ <RMSE>  0.821950912     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1007 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         951 </NUM>
+ <MEAN>   17702.2754     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.12048233     </BIAS>
+ <RMSE>  0.820467770     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  -4.96299751E-02 </MEAN_OBS>
+ <STDV_OBS>   1.17672479     </STDV_OBS>
+ <EXP>
+ <ID>        1002 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         909 </NUM>
+ <MEAN> -0.618588567     </MEAN>
+ <STDV>   1.10170897E-27 </STDV>
+ <BIAS>  0.565110445     </BIAS>
+ <RMSE>  0.909786701     </RMSE>
+ <CORR>   4.04373058E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1002 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         909 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.570010066     </BIAS>
+ <RMSE>  0.908088505     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1002 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         909 </NUM>
+ <MEAN>   15270.2383     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.568218291     </BIAS>
+ <RMSE>  0.908666313     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS> -0.138383046     </MEAN_OBS>
+ <STDV_OBS>   1.19296503     </STDV_OBS>
+ <EXP>
+ <ID>        1006 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         936 </NUM>
+ <MEAN> -0.249662951     </MEAN>
+ <STDV>   1.10941114E-27 </STDV>
+ <BIAS>  0.632355094     </BIAS>
+ <RMSE>  0.862587571     </RMSE>
+ <CORR>   1.60050017E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1006 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         936 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.620892465     </BIAS>
+ <RMSE>  0.864345491     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1006 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         936 </NUM>
+ <MEAN>  0.157848284     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.626338720     </BIAS>
+ <RMSE>  0.862786412     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.972963691     </MEAN_OBS>
+ <STDV_OBS>   1.19292116     </STDV_OBS>
+ <EXP>
+ <ID>        1011 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         930 </NUM>
+ <MEAN> -0.113510825     </MEAN>
+ <STDV>   1.60049524E-26 </STDV>
+ <BIAS>  0.874055803     </BIAS>
+ <RMSE>  0.892794073     </RMSE>
+ <CORR>   4.04370100E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1011 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         930 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.872767091     </BIAS>
+ <RMSE>  0.891151667     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1011 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         930 </NUM>
+ <MEAN>  0.180483192     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.875423253     </BIAS>
+ <RMSE>  0.891295731     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.43011713     </MEAN_OBS>
+ <STDV_OBS>   1.93560135     </STDV_OBS>
+ <EXP>
+ <ID>        1042 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         555 </NUM>
+ <MEAN>   3.70498371     </MEAN>
+ <STDV>   1.60050017E-26 </STDV>
+ <BIAS>  0.885755956     </BIAS>
+ <RMSE>  0.895988345     </RMSE>
+ <CORR>   1.16991154E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1042 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         555 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.884647131     </BIAS>
+ <RMSE>  0.894717455     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1042 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         555 </NUM>
+ <MEAN>   7.42073917     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.890496671     </BIAS>
+ <RMSE>  0.892808914     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.50357580     </MEAN_OBS>
+ <STDV_OBS>   2.68781686     </STDV_OBS>
+ <EXP>
+ <ID>        1158 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.15702486     </MEAN>
+ <STDV>   1.16991154E-27 </STDV>
+ <BIAS>   1.66999733     </BIAS>
+ <RMSE>  0.784626901     </RMSE>
+ <CORR>   4.04372072E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1158 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.65309000     </BIAS>
+ <RMSE>  0.795937598     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1158 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   1.17470133     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.64946449     </BIAS>
+ <RMSE>  0.790360987     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.12361598     </MEAN_OBS>
+ <STDV_OBS>   1.51358819     </STDV_OBS>
+ <EXP>
+ <ID>        1198 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   3.22266746     </MEAN>
+ <STDV>   4.04366156E-26 </STDV>
+ <BIAS>   1.49538422     </BIAS>
+ <RMSE>  0.732269228     </RMSE>
+ <CORR>   1.10941114E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1198 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.48727453     </BIAS>
+ <RMSE>  0.736719251     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1198 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         958 </NUM>
+ <MEAN>   1.97682250     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.48701620     </BIAS>
+ <RMSE>  0.736388206     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.67790079     </MEAN_OBS>
+ <STDV_OBS>   2.33668518     </STDV_OBS>
+ <EXP>
+ <ID>        1083 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         846 </NUM>
+ <MEAN>   5.55390024     </MEAN>
+ <STDV>   4.04372072E-26 </STDV>
+ <BIAS>   1.48865116     </BIAS>
+ <RMSE>  0.778206766     </RMSE>
+ <CORR>   1.60049524E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1083 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         846 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.46269858     </BIAS>
+ <RMSE>  0.778833151     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1083 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         846 </NUM>
+ <MEAN>   1.40446782     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.46689951     </BIAS>
+ <RMSE>  0.778797746     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.53761148     </MEAN_OBS>
+ <STDV_OBS>   2.27363014     </STDV_OBS>
+ <EXP>
+ <ID>        1088 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   6.54495621     </MEAN>
+ <STDV>   4.04370100E-26 </STDV>
+ <BIAS>   1.08873892     </BIAS>
+ <RMSE>  0.885385811     </RMSE>
+ <CORR>   3.55344860E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1088 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.07160842     </BIAS>
+ <RMSE>  0.888131082     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1088 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.524588943     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.10357976     </BIAS>
+ <RMSE>  0.882416427     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.96310711     </MEAN_OBS>
+ <STDV_OBS>   2.42450023     </STDV_OBS>
+ <EXP>
+ <ID>        1112 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.91600800     </MEAN>
+ <STDV>   4.04373058E-26 </STDV>
+ <BIAS>   1.40005589     </BIAS>
+ <RMSE>  0.833238006     </RMSE>
+ <CORR>   1.10941114E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1112 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.38827336     </BIAS>
+ <RMSE>  0.836080551     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1112 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.472153902     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.40351558     </BIAS>
+ <RMSE>  0.833788276     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.37888432     </MEAN_OBS>
+ <STDV_OBS>   2.09300518     </STDV_OBS>
+ <EXP>
+ <ID>        1116 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.28107119     </MEAN>
+ <STDV>   1.60050017E-26 </STDV>
+ <BIAS>   1.30634975     </BIAS>
+ <RMSE>  0.823032737     </RMSE>
+ <CORR>   1.60049524E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1116 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.28621173     </BIAS>
+ <RMSE>  0.827932060     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1116 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.558654726     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.26013362     </BIAS>
+ <RMSE>  0.835707188     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.68832779     </MEAN_OBS>
+ <STDV_OBS>   1.29124427     </STDV_OBS>
+ <EXP>
+ <ID>        1139 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   4.94000864     </MEAN>
+ <STDV>   1.10170897E-27 </STDV>
+ <BIAS>   1.08831358     </BIAS>
+ <RMSE>  0.607660949     </RMSE>
+ <CORR>   3.55344860E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1139 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.10672665     </BIAS>
+ <RMSE>  0.602357447     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1139 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.513922095     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.09348726     </BIAS>
+ <RMSE>  0.606787980     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.86185884     </MEAN_OBS>
+ <STDV_OBS>   3.24333906     </STDV_OBS>
+ <EXP>
+ <ID>        1151 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         970 </NUM>
+ <MEAN>   4.79493523     </MEAN>
+ <STDV>   1.16991154E-27 </STDV>
+ <BIAS>   1.58510077     </BIAS>
+ <RMSE>  0.871637344     </RMSE>
+ <CORR>   1.10941114E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1151 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         970 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.57478964     </BIAS>
+ <RMSE>  0.873341918     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1151 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         970 </NUM>
+ <MEAN>  0.409833401     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.57490551     </BIAS>
+ <RMSE>  0.875208795     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.58951139     </MEAN_OBS>
+ <STDV_OBS>   1.01661682     </STDV_OBS>
+ <EXP>
+ <ID>        1161 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   4.69599819     </MEAN>
+ <STDV>   4.04366156E-26 </STDV>
+ <BIAS>   1.08269346     </BIAS>
+ <RMSE>  0.461975574     </RMSE>
+ <CORR>   1.60049524E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1161 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.08591878     </BIAS>
+ <RMSE>  0.475612938     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1161 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.613322556     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.09516001     </BIAS>
+ <RMSE>  0.444309354     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.73586464     </MEAN_OBS>
+ <STDV_OBS>  0.965177655     </STDV_OBS>
+ <EXP>
+ <ID>        1162 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   4.80852461     </MEAN>
+ <STDV>   4.04372072E-26 </STDV>
+ <BIAS>   1.15801692     </BIAS>
+ <RMSE>  0.231881589     </RMSE>
+ <CORR>   3.55344860E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1162 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.29411948     </BIAS>
+ <RMSE>  0.127432048     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1162 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.410387129     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.25963700     </BIAS>
+ <RMSE>  0.155709237     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.62389994     </MEAN_OBS>
+ <STDV_OBS>   1.13673329     </STDV_OBS>
+ <EXP>
+ <ID>        1183 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.23227501     </MEAN>
+ <STDV>   4.04370100E-26 </STDV>
+ <BIAS>  0.982108414     </BIAS>
+ <RMSE>  0.601617455     </RMSE>
+ <CORR>   1.10941114E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1183 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.03656483     </BIAS>
+ <RMSE>  0.556756318     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1183 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.484366000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.969366968     </BIAS>
+ <RMSE>  0.620563507     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.19549870     </MEAN_OBS>
+ <STDV_OBS>   2.22963953     </STDV_OBS>
+ <EXP>
+ <ID>        1008 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   1.13877940     </MEAN>
+ <STDV>   4.04373058E-26 </STDV>
+ <BIAS>   1.27020836     </BIAS>
+ <RMSE>  0.845645189     </RMSE>
+ <CORR>   1.60049524E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1008 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.26232135     </BIAS>
+ <RMSE>  0.848011851     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1008 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.380235553     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.27368963     </BIAS>
+ <RMSE>  0.844942987     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.10178185     </MEAN_OBS>
+ <STDV_OBS>   1.82643986     </STDV_OBS>
+ <EXP>
+ <ID>        1115 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.31393719     </MEAN>
+ <STDV>   1.60050017E-26 </STDV>
+ <BIAS>   1.18272507     </BIAS>
+ <RMSE>  0.767544210     </RMSE>
+ <CORR>   3.55344860E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1115 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.18738425     </BIAS>
+ <RMSE>  0.762270391     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1115 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   11997.9521     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.20595860     </BIAS>
+ <RMSE>  0.759521425     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.34794521     </MEAN_OBS>
+ <STDV_OBS>  0.794863224     </STDV_OBS>
+ <EXP>
+ <ID>        1010 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.31074524     </MEAN>
+ <STDV>   1.10170897E-27 </STDV>
+ <BIAS>   1.04281723     </BIAS>
+ <RMSE>   9.03629363E-02 </RMSE>
+ <CORR>   1.10941114E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1010 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.05583787     </BIAS>
+ <RMSE>   9.56950560E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1010 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   20932.7461     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.02745926     </BIAS>
+ <RMSE>  0.103792593     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.66270077     </MEAN_OBS>
+ <STDV_OBS>   1.82771873     </STDV_OBS>
+ <EXP>
+ <ID>        1028 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   1.33661509     </MEAN>
+ <STDV>   3.55344860E-26 </STDV>
+ <BIAS>  0.543796659     </BIAS>
+ <RMSE>  0.957702935     </RMSE>
+ <CORR>   1.60049524E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1028 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.546247125     </BIAS>
+ <RMSE>  0.957267344     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1028 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   1.11906600     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.556609511     </BIAS>
+ <RMSE>  0.955492735     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.02946663     </MEAN_OBS>
+ <STDV_OBS>   1.10131466     </STDV_OBS>
+ <EXP>
+ <ID>        1160 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   4.78321981     </MEAN>
+ <STDV>   4.04366156E-26 </STDV>
+ <BIAS>  0.978644371     </BIAS>
+ <RMSE>  0.511922956     </RMSE>
+ <CORR>   1.16991154E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1160 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.00562978     </BIAS>
+ <RMSE>  0.505404413     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1160 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   11872.2061     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.988333762     </BIAS>
+ <RMSE>  0.508046210     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.05411100     </MEAN_OBS>
+ <STDV_OBS>  0.739384770     </STDV_OBS>
+ <EXP>
+ <ID>        1015 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.06180811     </MEAN>
+ <STDV>   4.04372072E-26 </STDV>
+ <BIAS>   1.30046284     </BIAS>
+ <RMSE>  0.260953397     </RMSE>
+ <CORR>   1.10941114E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1015 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.28259909     </BIAS>
+ <RMSE>  0.267775208     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1015 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.371403545     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.24809611     </BIAS>
+ <RMSE>  0.304163218     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.54200840     </MEAN_OBS>
+ <STDV_OBS>   1.09928906     </STDV_OBS>
+ <EXP>
+ <ID>        1023 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   4.82621098     </MEAN>
+ <STDV>   4.04370100E-26 </STDV>
+ <BIAS>   1.12833536     </BIAS>
+ <RMSE>  0.560300767     </RMSE>
+ <CORR>   1.60049524E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1023 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.12925529     </BIAS>
+ <RMSE>  0.560360789     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1023 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   8.59854221     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.11480165     </BIAS>
+ <RMSE>  0.562702894     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.15137434     </MEAN_OBS>
+ <STDV_OBS>   1.00084567     </STDV_OBS>
+ <EXP>
+ <ID>        1033 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   4.88369274     </MEAN>
+ <STDV>   4.04373058E-26 </STDV>
+ <BIAS>  0.723641932     </BIAS>
+ <RMSE>  0.804967523     </RMSE>
+ <CORR>   1.16991154E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1033 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.725893855     </BIAS>
+ <RMSE>  0.803394318     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1033 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   14431.2529     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.707633436     </BIAS>
+ <RMSE>  0.814292490     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.57187557     </MEAN_OBS>
+ <STDV_OBS>   1.09710157     </STDV_OBS>
+ <EXP>
+ <ID>        1037 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   4.25792265     </MEAN>
+ <STDV>   1.60050017E-26 </STDV>
+ <BIAS>   1.15344656     </BIAS>
+ <RMSE>  0.658822894     </RMSE>
+ <CORR>   1.10941114E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1037 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.15154076     </BIAS>
+ <RMSE>  0.659583986     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1037 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.259546578     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.15137386     </BIAS>
+ <RMSE>  0.660693228     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.91626215     </MEAN_OBS>
+ <STDV_OBS>   1.54932797     </STDV_OBS>
+ <EXP>
+ <ID>        1058 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   3.32855034     </MEAN>
+ <STDV>   1.10170897E-27 </STDV>
+ <BIAS>   1.15170467     </BIAS>
+ <RMSE>  0.723651290     </RMSE>
+ <CORR>   1.60049524E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1058 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.15374029     </BIAS>
+ <RMSE>  0.719898760     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1058 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   2.21025729     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.15093660     </BIAS>
+ <RMSE>  0.725967109     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.11897564     </MEAN_OBS>
+ <STDV_OBS>   2.07789207     </STDV_OBS>
+ <EXP>
+ <ID>        1065 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   4.92291021     </MEAN>
+ <STDV>   3.55344860E-26 </STDV>
+ <BIAS>   1.44616711     </BIAS>
+ <RMSE>  0.788160622     </RMSE>
+ <CORR>   1.16991154E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1065 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.43648958     </BIAS>
+ <RMSE>  0.791529119     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1065 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   2.83058953     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.46533263     </BIAS>
+ <RMSE>  0.783467889     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.39556360     </MEAN_OBS>
+ <STDV_OBS>   1.83221078     </STDV_OBS>
+ <EXP>
+ <ID>        1052 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   4.60306025     </MEAN>
+ <STDV>   4.04366156E-26 </STDV>
+ <BIAS>   1.07716525     </BIAS>
+ <RMSE>  0.808658659     </RMSE>
+ <CORR>   1.10941114E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1052 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.06082928     </BIAS>
+ <RMSE>  0.811566591     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1052 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   12806.1387     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.06934738     </BIAS>
+ <RMSE>  0.811814785     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.18959951     </MEAN_OBS>
+ <STDV_OBS>   2.32034564     </STDV_OBS>
+ <EXP>
+ <ID>        1076 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.54588127     </MEAN>
+ <STDV>   4.04372072E-26 </STDV>
+ <BIAS>   1.19878316     </BIAS>
+ <RMSE>  0.876241803     </RMSE>
+ <CORR>   1.60049524E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1076 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.21289361     </BIAS>
+ <RMSE>  0.873179972     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1076 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   2.68971801     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.19947052     </BIAS>
+ <RMSE>  0.875552237     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.17455435     </MEAN_OBS>
+ <STDV_OBS>   2.96766734     </STDV_OBS>
+ <EXP>
+ <ID>        1132 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   4.18979216     </MEAN>
+ <STDV>   4.04370100E-26 </STDV>
+ <BIAS>   1.86269677     </BIAS>
+ <RMSE>  0.803628266     </RMSE>
+ <CORR>   1.16991154E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1132 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.89208984     </BIAS>
+ <RMSE>  0.799242854     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1132 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   2.76376200     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.89227819     </BIAS>
+ <RMSE>  0.798911631     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.73344898     </MEAN_OBS>
+ <STDV_OBS>   2.97393322     </STDV_OBS>
+ <EXP>
+ <ID>        1169 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   4.35070515     </MEAN>
+ <STDV>   4.04373058E-26 </STDV>
+ <BIAS>   1.46226132     </BIAS>
+ <RMSE>  0.874808550     </RMSE>
+ <CORR>   1.10941114E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1169 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.46113265     </BIAS>
+ <RMSE>  0.875534832     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1169 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   1.98712552     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.42797387     </BIAS>
+ <RMSE>  0.881118655     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.28724337     </MEAN_OBS>
+ <STDV_OBS>   2.86021781     </STDV_OBS>
+ <EXP>
+ <ID>        1135 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.03813028     </MEAN>
+ <STDV>   1.16991154E-27 </STDV>
+ <BIAS>   1.44084656     </BIAS>
+ <RMSE>  0.878559887     </RMSE>
+ <CORR>   1.60049524E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1135 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.42070901     </BIAS>
+ <RMSE>  0.881719470     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1135 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   3.11782360     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.42856848     </BIAS>
+ <RMSE>  0.880377352     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.47319698     </MEAN_OBS>
+ <STDV_OBS>   1.54525638     </STDV_OBS>
+ <EXP>
+ <ID>        1192 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   3.44275427     </MEAN>
+ <STDV>   1.10170897E-27 </STDV>
+ <BIAS>   1.25628650     </BIAS>
+ <RMSE>  0.709484696     </RMSE>
+ <CORR>   1.60050017E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1192 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.26264453     </BIAS>
+ <RMSE>  0.702975392     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1192 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   4.44034433     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.24989772     </BIAS>
+ <RMSE>  0.712544203     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.561389446     </MEAN_OBS>
+ <STDV_OBS>   1.14293611     </STDV_OBS>
+ <EXP>
+ <ID>        1001 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.485201448     </MEAN>
+ <STDV>   3.55344860E-26 </STDV>
+ <BIAS>  0.910185277     </BIAS>
+ <RMSE>  0.759605706     </RMSE>
+ <CORR>   1.10941114E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1001 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.908224761     </BIAS>
+ <RMSE>  0.760812581     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1001 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   3.03398204     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.910352707     </BIAS>
+ <RMSE>  0.759393573     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.10899544     </MEAN_OBS>
+ <STDV_OBS>  0.811724424     </STDV_OBS>
+ <EXP>
+ <ID>        1026 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.09870148     </MEAN>
+ <STDV>   4.04366156E-26 </STDV>
+ <BIAS>  0.990050733     </BIAS>
+ <RMSE>  0.511271358     </RMSE>
+ <CORR>   1.60049524E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1026 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.981731117     </BIAS>
+ <RMSE>  0.519189417     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1026 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   13977.0723     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.932928205     </BIAS>
+ <RMSE>  0.570576429     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.59865952     </MEAN_OBS>
+ <STDV_OBS>   1.85288358     </STDV_OBS>
+ <EXP>
+ <ID>        1055 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   4.91426325     </MEAN>
+ <STDV>   4.04372072E-26 </STDV>
+ <BIAS>  0.867408097     </BIAS>
+ <RMSE>  0.885292470     </RMSE>
+ <CORR>   1.60050017E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1055 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.863722026     </BIAS>
+ <RMSE>  0.885728776     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1055 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   18896.2676     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.881715119     </BIAS>
+ <RMSE>  0.881990790     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.433775842     </MEAN_OBS>
+ <STDV_OBS>   1.30578685     </STDV_OBS>
+ <EXP>
+ <ID>        1062 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.86252026E-02 </MEAN>
+ <STDV>   4.04370100E-26 </STDV>
+ <BIAS>  0.784759104     </BIAS>
+ <RMSE>  0.799269080     </RMSE>
+ <CORR>   1.10941114E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1062 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.777361453     </BIAS>
+ <RMSE>  0.804352582     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1062 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.339347303     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.781389952     </BIAS>
+ <RMSE>  0.804139078     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.87264681     </MEAN_OBS>
+ <STDV_OBS>   2.26407504     </STDV_OBS>
+ <EXP>
+ <ID>        1078 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.14574575     </MEAN>
+ <STDV>   4.04373058E-26 </STDV>
+ <BIAS>  0.973494411     </BIAS>
+ <RMSE>  0.906858146     </RMSE>
+ <CORR>   1.60049524E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1078 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.974027514     </BIAS>
+ <RMSE>  0.906333148     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1078 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   7356.68848     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.977553725     </BIAS>
+ <RMSE>  0.907231212     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.15971899     </MEAN_OBS>
+ <STDV_OBS>  0.951585472     </STDV_OBS>
+ <EXP>
+ <ID>        1105 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.11211967     </MEAN>
+ <STDV>   1.16991154E-27 </STDV>
+ <BIAS>  0.868495584     </BIAS>
+ <RMSE>  0.501286924     </RMSE>
+ <CORR>   1.60050017E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1105 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.864111245     </BIAS>
+ <RMSE>  0.521963179     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1105 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.360439330     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.898701787     </BIAS>
+ <RMSE>  0.496321291     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.19341803     </MEAN_OBS>
+ <STDV_OBS>   3.17574906     </STDV_OBS>
+ <EXP>
+ <ID>        1133 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   3.91874576     </MEAN>
+ <STDV>   1.10170897E-27 </STDV>
+ <BIAS>   1.65180159     </BIAS>
+ <RMSE>  0.881284475     </RMSE>
+ <CORR>   1.10941114E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1133 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.64736509     </BIAS>
+ <RMSE>  0.882109523     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1133 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.68750000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.65222490     </BIAS>
+ <RMSE>  0.881391644     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.72608232     </MEAN_OBS>
+ <STDV_OBS>   2.60798955     </STDV_OBS>
+ <EXP>
+ <ID>        1146 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   6.12231922     </MEAN>
+ <STDV>   3.55344860E-26 </STDV>
+ <BIAS>   1.27536869     </BIAS>
+ <RMSE>  0.883993268     </RMSE>
+ <CORR>   1.60049524E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1146 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.26561558     </BIAS>
+ <RMSE>  0.885246515     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1146 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   1.94205225     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.26637232     </BIAS>
+ <RMSE>  0.885450363     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.47205114     </MEAN_OBS>
+ <STDV_OBS>   3.39886785     </STDV_OBS>
+ <EXP>
+ <ID>        1148 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   4.29142857     </MEAN>
+ <STDV>   4.04366156E-26 </STDV>
+ <BIAS>   1.86869395     </BIAS>
+ <RMSE>  0.846027792     </RMSE>
+ <CORR>   1.60050017E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1148 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.87578571     </BIAS>
+ <RMSE>  0.846442044     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1148 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   1.79660451     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.88820100     </BIAS>
+ <RMSE>  0.843801916     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.37625456     </MEAN_OBS>
+ <STDV_OBS>  0.805284142     </STDV_OBS>
+ <EXP>
+ <ID>        1027 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.16664743     </MEAN>
+ <STDV>   1.10941114E-27 </STDV>
+ <BIAS>  0.847680986     </BIAS>
+ <RMSE>  0.633499503     </RMSE>
+ <CORR>   1.60050017E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1027 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.844684243     </BIAS>
+ <RMSE>  0.636136353     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1027 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.939825594     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.779311001     </BIAS>
+ <RMSE>  0.696918666     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.75180912     </MEAN_OBS>
+ <STDV_OBS>   1.53970158     </STDV_OBS>
+ <EXP>
+ <ID>        1044 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   4.54963970     </MEAN>
+ <STDV>   1.16991154E-27 </STDV>
+ <BIAS>  0.965325296     </BIAS>
+ <RMSE>  0.845320761     </RMSE>
+ <CORR>   4.04373058E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1044 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.959865510     </BIAS>
+ <RMSE>  0.847227275     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1044 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   2.68199325     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.969270647     </BIAS>
+ <RMSE>  0.843966603     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.53525209     </MEAN_OBS>
+ <STDV_OBS>   2.27476692     </STDV_OBS>
+ <EXP>
+ <ID>        1068 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   4.91603422     </MEAN>
+ <STDV>   1.10170897E-27 </STDV>
+ <BIAS>   1.10274601     </BIAS>
+ <RMSE>  0.878400385     </RMSE>
+ <CORR>   1.60049524E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1068 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.09522593     </BIAS>
+ <RMSE>  0.879727244     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1068 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.372156262     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.10492694     </BIAS>
+ <RMSE>  0.878126383     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.90061760     </MEAN_OBS>
+ <STDV_OBS>   2.47182655     </STDV_OBS>
+ <EXP>
+ <ID>        1074 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.04910660     </MEAN>
+ <STDV>   4.04373058E-26 </STDV>
+ <BIAS>   1.12631357     </BIAS>
+ <RMSE>  0.901052654     </RMSE>
+ <CORR>   1.60050017E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1074 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.12039983     </BIAS>
+ <RMSE>  0.901800990     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1074 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   3.57433891     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.11844420     </BIAS>
+ <RMSE>  0.900038898     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.48016739     </MEAN_OBS>
+ <STDV_OBS>   2.52881289     </STDV_OBS>
+ <EXP>
+ <ID>        1086 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         847 </NUM>
+ <MEAN>   5.09494686     </MEAN>
+ <STDV>   1.60049524E-26 </STDV>
+ <BIAS>   1.37698245     </BIAS>
+ <RMSE>  0.839300096     </RMSE>
+ <CORR>   3.55344860E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1086 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         847 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.35802352     </BIAS>
+ <RMSE>  0.836935163     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1086 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         847 </NUM>
+ <MEAN>   3.69856191     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.38808119     </BIAS>
+ <RMSE>  0.836795032     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.39887857     </MEAN_OBS>
+ <STDV_OBS>   2.19345474     </STDV_OBS>
+ <EXP>
+ <ID>        1099 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   6.25076056     </MEAN>
+ <STDV>   4.04372072E-26 </STDV>
+ <BIAS>  0.779462695     </BIAS>
+ <RMSE>  0.936796248     </RMSE>
+ <CORR>   4.04366156E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1099 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.777591467     </BIAS>
+ <RMSE>  0.937135220     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1099 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.555168092     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.791458309     </BIAS>
+ <RMSE>  0.935061812     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.06639433     </MEAN_OBS>
+ <STDV_OBS>   1.12897837     </STDV_OBS>
+ <EXP>
+ <ID>        1045 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   4.84402990     </MEAN>
+ <STDV>   4.04370100E-26 </STDV>
+ <BIAS>  0.967524946     </BIAS>
+ <RMSE>  0.641026556     </RMSE>
+ <CORR>   1.60050017E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1045 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.971370161     </BIAS>
+ <RMSE>  0.639074385     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1045 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>  0.326783597     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.969102979     </BIAS>
+ <RMSE>  0.634973466     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.47231722     </MEAN_OBS>
+ <STDV_OBS>   1.03174090     </STDV_OBS>
+ <EXP>
+ <ID>        1180 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   4.77070093     </MEAN>
+ <STDV>   1.10941114E-27 </STDV>
+ <BIAS>   1.11219037     </BIAS>
+ <RMSE>  0.446563751     </RMSE>
+ <CORR>   3.55344860E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1180 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.12236989     </BIAS>
+ <RMSE>  0.456923962     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1180 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   2.89861965     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.08271551     </BIAS>
+ <RMSE>  0.479846418     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.24509859     </MEAN_OBS>
+ <STDV_OBS>   1.74556673     </STDV_OBS>
+ <EXP>
+ <ID>        1114 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   4.67902899     </MEAN>
+ <STDV>   1.16991154E-27 </STDV>
+ <BIAS>   1.56268048     </BIAS>
+ <RMSE>  0.613519430     </RMSE>
+ <CORR>   4.04366156E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1114 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.55516088     </BIAS>
+ <RMSE>  0.608603895     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1114 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   1.27382863     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.56954145     </BIAS>
+ <RMSE>  0.610377073     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.73348999     </MEAN_OBS>
+ <STDV_OBS>   2.15844250     </STDV_OBS>
+ <EXP>
+ <ID>        1108 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.46726799     </MEAN>
+ <STDV>   1.10170897E-27 </STDV>
+ <BIAS>   1.13238263     </BIAS>
+ <RMSE>  0.863865435     </RMSE>
+ <CORR>   1.60050017E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1108 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.13485074     </BIAS>
+ <RMSE>  0.864400744     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1108 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   22186.6973     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.13744354     </BIAS>
+ <RMSE>  0.863574326     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.42102432     </MEAN_OBS>
+ <STDV_OBS>   2.20905137     </STDV_OBS>
+ <EXP>
+ <ID>        1082 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   7.52004910     </MEAN>
+ <STDV>   4.04373058E-26 </STDV>
+ <BIAS>   1.59137273     </BIAS>
+ <RMSE>  0.811950028     </RMSE>
+ <CORR>   3.55344860E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1082 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.58851171     </BIAS>
+ <RMSE>  0.812766194     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1082 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   10308.5957     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.59488356     </BIAS>
+ <RMSE>  0.811021566     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.73871636     </MEAN_OBS>
+ <STDV_OBS>   2.86995959     </STDV_OBS>
+ <EXP>
+ <ID>        1147 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   4.18712234     </MEAN>
+ <STDV>   1.60050017E-26 </STDV>
+ <BIAS>   1.28247249     </BIAS>
+ <RMSE>  0.898282051     </RMSE>
+ <CORR>   4.04366156E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1147 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.27850676     </BIAS>
+ <RMSE>  0.898119390     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1147 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   3.76786685     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.28462112     </BIAS>
+ <RMSE>  0.897209585     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.49137545     </MEAN_OBS>
+ <STDV_OBS>   2.32170987     </STDV_OBS>
+ <EXP>
+ <ID>        1084 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   7.62087917     </MEAN>
+ <STDV>   4.04372072E-26 </STDV>
+ <BIAS>   1.68603110     </BIAS>
+ <RMSE>  0.817132771     </RMSE>
+ <CORR>   1.60049524E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1084 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.70872211     </BIAS>
+ <RMSE>  0.811634958     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1084 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   1.10602820     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.68393791     </BIAS>
+ <RMSE>  0.817778111     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.42025280     </MEAN_OBS>
+ <STDV_OBS>   2.40081787     </STDV_OBS>
+ <EXP>
+ <ID>        1117 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.23309135     </MEAN>
+ <STDV>   4.04366156E-26 </STDV>
+ <BIAS>   1.30075574     </BIAS>
+ <RMSE>  0.845976651     </RMSE>
+ <CORR>   3.55344860E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1117 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.29896069     </BIAS>
+ <RMSE>  0.846811593     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1117 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   3.86009550     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.29287457     </BIAS>
+ <RMSE>  0.848238289     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.35592508     </MEAN_OBS>
+ <STDV_OBS>  0.786031604     </STDV_OBS>
+ <EXP>
+ <ID>        1025 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   5.13481188     </MEAN>
+ <STDV>   1.16991154E-27 </STDV>
+ <BIAS>  0.832436979     </BIAS>
+ <RMSE>  0.602848053     </RMSE>
+ <CORR>   1.10941114E-27 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1025 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.831657708     </BIAS>
+ <RMSE>  0.604933262     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1025 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         976 </NUM>
+ <MEAN>   1.55173290     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.789711416     </BIAS>
+ <RMSE>  0.647913277     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.55853057     </MEAN_OBS>
+ <STDV_OBS>   1.88698018     </STDV_OBS>
+ <EXP>
+ <ID>        1199 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         961 </NUM>
+ <MEAN>   4.08342886     </MEAN>
+ <STDV>   4.04370100E-26 </STDV>
+ <BIAS>   1.44614255     </BIAS>
+ <RMSE>  0.817685187     </RMSE>
+ <CORR>   3.55344860E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1199 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         961 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.45012128     </BIAS>
+ <RMSE>  0.816651881     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1199 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         961 </NUM>
+ <MEAN>   12192.1709     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.42746019     </BIAS>
+ <RMSE>  0.823120236     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS> -0.174227104     </MEAN_OBS>
+ <STDV_OBS>   1.62646878     </STDV_OBS>
+ <EXP>
+ <ID>        1024 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         919 </NUM>
+ <MEAN> -0.190966442     </MEAN>
+ <STDV>   1.60050017E-26 </STDV>
+ <BIAS>   1.88370836     </BIAS>
+ <RMSE>  0.894760132     </RMSE>
+ <CORR>   4.04373058E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1024 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         919 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.87700295     </BIAS>
+ <RMSE>  0.894866586     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1024 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         919 </NUM>
+ <MEAN>  0.287266403     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.88203681     </BIAS>
+ <RMSE>  0.894204855     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.85144854     </MEAN_OBS>
+ <STDV_OBS>   1.86082208     </STDV_OBS>
+ <EXP>
+ <ID>        1057 </ID>
+ <NAME>aa11</NAME>
+ <NUM>         139 </NUM>
+ <MEAN>   4.02945757     </MEAN>
+ <STDV>   4.04372072E-26 </STDV>
+ <BIAS>   1.35761690     </BIAS>
+ <RMSE>  0.750311434     </RMSE>
+ <CORR>   3.55344860E-26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1057 </ID>
+ <NAME>aa21</NAME>
+ <NUM>         139 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.35162628     </BIAS>
+ <RMSE>  0.752650917     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1057 </ID>
+ <NAME>aa31</NAME>
+ <NUM>         139 </NUM>
+ <MEAN>  0.473846257     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.34462917     </BIAS>
+ <RMSE>  0.755171835     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+</STAT>
